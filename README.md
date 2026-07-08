@@ -153,15 +153,15 @@ Add screenshots here after uploading them.
 
 ### Executive Overview
 
-![Executive Overview](Executive_Overview.png)
+![Executive Overview]![Executive Overview](Executive_Overview.png)
 
 ### Customer Risk Analysis
 
-![Customer Risk Analysis](Customer_Risk_Analysis.png)
+![Customer Risk Analysis]![Customer Risk Analysis](Customer_Risk_Analysis.png)
 
 ### Operations & Fraud Analytics
 
-![Operations & Fraud Analytics](<Operations_Fraud Analytics.png>)
+![Operations & Fraud Analytics]![Operations & Fraud Analytics](Operations_Fraud_Analytics.png)
 
 ### Executive Summary
 
