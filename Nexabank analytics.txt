@@ -1,0 +1,229 @@
+
+
+
+1. Row counts
+2. Data types
+3. Missing values
+4. Duplicate keys
+5. Duplicate business values (emails, phone numbers)
+6. Referential integrity
+7. Domain validity
+8. Standardization
+9. Business rules
+10. Outliers
+
+
+Annual income (8.15%): This is the most significant missing field. In a real fintech, this could be because customers skipped providing income or their KYC process wasn't completed.
+Employment status (5.99%): Also plausible. Not every customer provides employment details.
+Gender (2.05%): Low enough that it's realistic. Many customers choose not to disclose it.
+KYC status (3.03%): Interesting. Missing KYC data could indicate incomplete onboarding or data quality issues.
+
+
+### Duplicate Customer Profiles
+
+A duplicate email audit identified 500 duplicated email addresses, each occurring twice. These duplicates appear to represent repeated customer profiles rather than accidental SQL duplicates. The issue will be documented and considered during later analysis to avoid inflating customer counts or KPIs.
+
+### Country Standardization
+
+The audit identified inconsistent country naming conventions. Several countries appeared under multiple labels (e.g., Netherlands, NL, Holland, Nederland). To ensure accurate reporting and grouping, a standardized country field will be created during the data-cleaning phase. The original data will remain unchanged to preserve raw source integrity.
+
+### Referential Integrity Check
+
+A left join between transactions and merchants identified 250 transactions (0.10%) without a corresponding merchant record. Rather than deleting these records, they will be retained and labeled as "Unknown Merchant" during the cleaning phase to preserve transaction history while maintaining consistent reporting.
+
+
+### Objective
+
+The objective of this phase was to evaluate the quality, completeness, and consistency of the raw dataset before any cleaning or analysis. The raw tables were intentionally left unchanged during this stage. Every issue identified was documented so that cleaning decisions would be evidence-based rather than arbitrary.
+
+| Table                     |    Rows |
+| ------------------------- | ------: |
+| Customers                 |  30,500 |
+| Accounts                  |  42,000 |
+| Cards                     |  36,000 |
+| Merchants                 |   2,500 |
+| Transactions              | 240,000 |
+| Customer Monthly Snapshot | 240,000 |
+| Support Tickets           |  30,000 |
+| Marketing Interactions    |  42,000 |
+| Fraud Flags               |   8,000 |
+| Loans                     |   8,000 |
+
+---
+
+### Missing Values
+
+Several customer attributes contained missing values.
+
+* Annual Income: 2,485 (8.15%)
+* Employment Status: 1,826 (5.99%)
+* Gender: 625 (2.05%)
+* KYC Status: 925 (3.03%)
+
+### Domain Validation
+
+Customer ages ranged from 18 to 81 years with an average age of 40.1 years.
+
+No impossible values were identified.
+
+Account Status values were consistent:
+
+* Active
+* Closed
+* Dormant
+
+Transaction Type values were standardized:
+
+* Card Payment
+* Bank Transfer
+* Direct Debit
+* ATM Withdrawal
+* Refund
+* Fee
+
+KYC Status values were also consistent:
+
+* Verified
+* Pending
+* Rejected
+
+The only issue identified was missing KYC values, which had already been documented.
+
+
+### Transaction Type Validation
+
+Transaction categories were audited to identify inconsistent naming, misspellings, or unexpected values.
+
+| Transaction Type |   Count |
+| ---------------- | ------: |
+| Card Payment     | 134,328 |
+| Bank Transfer    |  43,176 |
+| Direct Debit     |  28,894 |
+| ATM Withdrawal   |  19,132 |
+| Refund           |   9,659 |
+| Fee              |   4,811 |
+
+All transaction types were standardized and contained no duplicate labels or spelling inconsistencies.
+
+The distribution is realistic for a digital retail bank, with card payments representing the majority of customer activity. No data cleaning is required for this field.
+
+
+### Currency Validation
+
+The account currency field was audited for inconsistent currency codes and formatting.
+
+| Currency | Accounts |
+| -------- | -------: |
+| EUR      |   38,243 |
+| PLN      |    2,163 |
+| SEK      |    1,594 |
+
+All currencies use standardized ISO-4217 codes. No inconsistencies or invalid currency values were identified. No cleaning is required for this field.
+
+
+
+schema inference problem during import
+
+### Negative Transaction Validation
+
+A validation was performed to determine whether negative transaction amounts represented data quality issues or legitimate business events.
+
+Results:
+
+* Negative transactions: **9,659**
+* Refund transactions: **9,659**
+
+A follow-up analysis confirmed that every negative transaction corresponded to a transaction with the type **Refund**.
+
+This demonstrates that negative values represent valid business activity rather than erroneous data. Consequently, no cleaning or correction is required.
+
+
+
+
+---
+
+### Summary
+
+The audit identified several realistic data quality issues, including missing values, duplicated customer profiles, inconsistent country names, and orphan merchant references. No structural integrity issues were found with primary keys or categorical fields. These findings will guide the implementation of cleaned analytical views in the next phase without modifying the raw source tables.
+
+Issues requiring action
+Missing values
+Duplicate customer emails
+Country standardization
+Transactions without matching merchants
+Incorrect data types from CSV import
+Issues that were investigated but did not require cleaning
+Customer ages
+Account statuses
+Transaction types
+Currency codes
+Loan amounts
+Interest rates
+Loan statuses
+Negative transactions (confirmed to be refunds)
+Primary key uniqueness
+
+
+Next Phase: 02_data_cleaning.sql
+
+
+
+
+
+
+
+
+
+
+
+
+Business insight
+
+The default rate stays fairly stable for loans below €20,000 (around 5.3–5.6%), but increases noticeably for loans above €20,000.
+
+This supports the earlier observation that larger loans may carry greater credit risk.
+
+Recommendation
+
+A bank might consider:
+
+Applying additional affordability checks for loans above €20,000.
+Reviewing underwriting policies for higher-value loans.
+Monitoring this segment more closely to reduce future losses.
+
+Business recommendation
+
+Instead of monitoring only customers with many loans, the bank should prioritize customers based on total outstanding exposure, since a small number of large loans may represent greater financial risk than several small loans.
+
+The largest loan is €181,526.99, far above the portfolio average of about €13,461.
+The top 10 loans include multiple loan types (Personal, Consumer Credit, SMB, Overdraft), indicating large loans are not concentrated in a single product.
+Both Active and Closed loans appear among the largest loans, suggesting the bank has successfully originated and repaid many high-value loans.
+Are the largest loans also the ones that default?
+
+The portfolio remains healthy, with nearly 70% of loans active and an overall default rate of 5.7%. However, Personal Loans represent the highest-risk product segment (6.14% default rate), and loans exceeding €20,000 exhibit elevated default rates (6.79%). Several of the largest defaulted exposures are high-value Personal Loans, suggesting that enhanced underwriting or monitoring for larger Personal Loans could reduce future credit losses.
+
+Which age groups have the highest loan default rate?
+
+Business insight
+
+Customers aged 35–54 have the highest default rates in this dataset, while customers aged 55+ have the lowest.
+
+This doesn't prove that age causes defaults, but it identifies a segment that deserves further investigation. Other factors—such as income, employment status, or loan type—may explain the difference.
+
+oes default risk decrease as customer income increases?
+Are low-income customers a higher-risk segment?
+Should lending policies vary by income band?
+Customers earning under €30,000 have the highest default rate in the dataset.
+The other three income bands are fairly similar (roughly 5.3–5.5%).
+Based on this dataset, the clearest distinction is between the lowest-income segment and everyone else.
+
+Does transaction activity relate to default risk?
+Active customers transact slightly more frequently.
+Defaulted customers are only marginally less active.
+Closed customers have the fewest transactions per customer.
+Transaction frequency alone does not appear to be a strong predictor of loan default.
+
+Are customers with fraud flags more likely to default?
+Customers with a fraud flag have a slightly higher default rate (6.05% vs. 5.50%).
+
+However, the difference is modest—about 0.55 percentage points. Based on this analysis alone, we cannot conclude that fraud flags are a strong predictor of loan default.

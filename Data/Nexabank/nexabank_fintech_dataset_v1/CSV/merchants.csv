@@ -1,0 +1,2501 @@
+merchant_id,merchant_name,merchant_category,merchant_country,risk_level
+5000,OnlineGaming_0,Online Gaming,Romania,High
+5001,Groceries_1,Groceries,Romania,Low
+5002,Electronics_2,Electronics,Malta,Medium
+5003,Health_3,Health,France,Low
+5004,ATM_4,ATM,Romania,Medium
+5005,OnlineGaming 5,Online Gaming,Ireland,High
+5006,CryptoServices_6,Crypto Services,Lithuania,High
+5007,Restaurants_7,Restaurants,Italy,Low
+5008,Insurance_8,Insurance,Lithuania,Low
+5009,Groceries_9,Groceries,Netherlands,Low
+5010,Insurance_10,Insurance,Sweden,Low
+5011,Health_11,Health,Spain,Low
+5012,Groceries_12,Groceries,Cyprus,Low
+5013,CryptoServices_13,Crypto Services,Spain,High
+5014,Travel_14,Travel,Malta,Medium
+5015,Restaurants_15,Restaurants,France,Low
+5016,Utilities_16,Utilities,Belgium,Low
+5017,UTILITIES_17,Utilities,Cyprus,Low
+5018,Education_18,Education,Italy,Low
+5019,Electronics_19,Electronics,Lithuania,Medium
+5020,FASHION_20,Fashion,Ireland,Low
+5021,Groceries_21,Groceries,Belgium,Low
+5022,OnlineGaming 22,Online Gaming,Netherlands,High
+5023,Insurance_23,Insurance,Lithuania,Low
+5024,Travel_24,Travel,Cyprus,Medium
+5025,Electronics_25,Electronics,Portugal,Medium
+5026,CRYPTOSERVICES_26,Crypto Services,Poland,High
+5027,ATM_27,ATM,Germany,Medium
+5028,Insurance_28,Insurance,Belgium,Low
+5029,ATM_29,ATM,Belgium,Medium
+5030,Education_30,Education,France,Low
+5031,Fashion_31,Fashion,Malta,Low
+5032,Groceries_32,Groceries,Portugal,Low
+5033,RESTAURANTS 33,Restaurants,Portugal,Low
+5034,Travel_34,Travel,Cyprus,Medium
+5035,OnlineGaming_35,Online Gaming,Belgium,High
+5036,Groceries_36,Groceries,Poland,Low
+5037,Insurance_37,Insurance,Sweden,Low
+5038,Insurance 38,Insurance,Germany,Low
+5039,Restaurants_39,Restaurants,Romania,Low
+5040,Travel 40,Travel,Portugal,Medium
+5041,Education 41,Education,Lithuania,Low
+5042,Groceries 42,Groceries,Malta,Low
+5043,Health_43,Health,Netherlands,Low
+5044,Groceries_44,Groceries,Belgium,Low
+5045,Utilities_45,Utilities,Poland,Low
+5046,Groceries_46,Groceries,Spain,Low
+5047,Restaurants_47,Restaurants,Belgium,Low
+5048,Fashion_48,Fashion,Italy,Low
+5049,Electronics_49,Electronics,Malta,Medium
+5050,OnlineGaming_50,Online Gaming,Cyprus,High
+5051,ATM_51,ATM,Lithuania,Medium
+5052,Restaurants_52,Restaurants,Lithuania,Low
+5053,Restaurants_53,Restaurants,Romania,Low
+5054,Restaurants_54,Restaurants,Romania,Low
+5055,Restaurants_55,Restaurants,Netherlands,Low
+5056,GROCERIES_56,Groceries,Netherlands,Low
+5057,Groceries_57,Groceries,Malta,Low
+5058,Electronics_58,Electronics,Spain,Medium
+5059,ATM_59,ATM,Sweden,Medium
+5060,Electronics_60,Electronics,Belgium,Medium
+5061,Health_61,Health,Germany,Low
+5062,Groceries 62,Groceries,Lithuania,Low
+5063,ATM_63,ATM,Germany,Medium
+5064,Travel_64,Travel,Portugal,Medium
+5065,Restaurants_65,Restaurants,Portugal,Low
+5066,Utilities_66,Utilities,France,Low
+5067,ATM_67,ATM,Poland,Medium
+5068,Travel_68,Travel,Netherlands,Medium
+5069,Restaurants_69,Restaurants,Spain,Low
+5070,GROCERIES_70,Groceries,Malta,Low
+5071,ONLINEGAMING 71,Online Gaming,Lithuania,High
+5072,Travel_72,Travel,Cyprus,Medium
+5073,Utilities_73,Utilities,Italy,Low
+5074,Travel 74,Travel,Portugal,Medium
+5075,Travel_75,Travel,Germany,Medium
+5076,Insurance_76,Insurance,Romania,Low
+5077,Electronics_77,Electronics,Italy,Medium
+5078,Restaurants_78,Restaurants,Netherlands,Low
+5079,CRYPTOSERVICES_79,Crypto Services,Belgium,High
+5080,UTILITIES_80,Utilities,France,Low
+5081,Travel_81,Travel,France,Medium
+5082,EDUCATION 82,Education,Italy,Low
+5083,Fashion_83,Fashion,Italy,Low
+5084,GROCERIES_84,Groceries,Romania,Low
+5085,Travel_85,Travel,Portugal,Medium
+5086,Groceries_86,Groceries,Ireland,Low
+5087,TRAVEL_87,Travel,Poland,Medium
+5088,Groceries_88,Groceries,Sweden,Low
+5089,Utilities_89,Utilities,Portugal,Low
+5090,Fashion_90,Fashion,Poland,Low
+5091,Travel_91,Travel,Ireland,Medium
+5092,Utilities_92,Utilities,Poland,Low
+5093,UTILITIES_93,Utilities,Belgium,Low
+5094,Groceries_94,Groceries,Italy,Low
+5095,UTILITIES_95,Utilities,Poland,Low
+5096,Education_96,Education,Netherlands,Low
+5097,Utilities_97,Utilities,Netherlands,Low
+5098,Fashion_98,Fashion,Lithuania,Low
+5099,HEALTH_99,Health,Portugal,Low
+5100,Restaurants_100,Restaurants,Netherlands,Low
+5101,Electronics_101,Electronics,Malta,Medium
+5102,ONLINEGAMING 102,Online Gaming,Ireland,High
+5103,ELECTRONICS_103,Electronics,France,Medium
+5104,Groceries_104,Groceries,Malta,Low
+5105,Travel_105,Travel,Malta,Medium
+5106,ELECTRONICS_106,Electronics,Germany,Medium
+5107,Education_107,Education,Romania,Low
+5108,Groceries_108,Groceries,Italy,Low
+5109,Electronics 109,Electronics,Lithuania,Medium
+5110,Travel_110,Travel,Cyprus,Medium
+5111,Health_111,Health,Cyprus,Low
+5112,Restaurants_112,Restaurants,Cyprus,Low
+5113,Travel_113,Travel,Italy,Medium
+5114,Restaurants_114,Restaurants,France,Low
+5115,Groceries_115,Groceries,Spain,Low
+5116,GROCERIES 116,Groceries,Malta,Low
+5117,Restaurants_117,Restaurants,Spain,Low
+5118,Health_118,Health,Romania,Low
+5119,Health_119,Health,Italy,Low
+5120,GROCERIES_120,Groceries,Belgium,Low
+5121,Groceries 121,Groceries,Romania,Low
+5122,ATM_122,ATM,Cyprus,Medium
+5123,Fashion_123,Fashion,Ireland,Low
+5124,Fashion_124,Fashion,Ireland,Low
+5125,TRAVEL_125,Travel,Romania,Medium
+5126,Education 126,Education,Cyprus,Low
+5127,Utilities_127,Utilities,Portugal,Low
+5128,GROCERIES_128,Groceries,Ireland,Low
+5129,Restaurants_129,Restaurants,Germany,Low
+5130,Electronics_130,Electronics,France,Medium
+5131,Electronics_131,Electronics,Poland,Medium
+5132,EDUCATION_132,Education,Portugal,Low
+5133,ATM_133,ATM,Ireland,Medium
+5134,Fashion_134,Fashion,Poland,Low
+5135,Restaurants_135,Restaurants,Romania,Low
+5136,Health_136,Health,Germany,Low
+5137,Groceries_137,Groceries,Sweden,Low
+5138,Utilities_138,Utilities,Spain,Low
+5139,Groceries_139,Groceries,Poland,Low
+5140,Utilities_140,Utilities,Portugal,Low
+5141,GROCERIES_141,Groceries,Malta,Low
+5142,GROCERIES 142,Groceries,Cyprus,Low
+5143,OnlineGaming_143,Online Gaming,Netherlands,High
+5144,CRYPTOSERVICES_144,Crypto Services,Netherlands,High
+5145,Travel_145,Travel,Spain,Medium
+5146,ATM 146,ATM,Malta,Medium
+5147,Health_147,Health,Cyprus,Low
+5148,Restaurants_148,Restaurants,Romania,Low
+5149,ONLINEGAMING_149,Online Gaming,Romania,High
+5150,GROCERIES_150,Groceries,Cyprus,Low
+5151,Restaurants_151,Restaurants,Belgium,Low
+5152,Groceries_152,Groceries,Cyprus,Low
+5153,Electronics_153,Electronics,Germany,Medium
+5154,Health_154,Health,Ireland,Low
+5155,Fashion 155,Fashion,Germany,Low
+5156,Restaurants 156,Restaurants,Sweden,Low
+5157,Fashion 157,Fashion,Cyprus,Low
+5158,Groceries_158,Groceries,Sweden,Low
+5159,Groceries_159,Groceries,Cyprus,Low
+5160,Restaurants_160,Restaurants,Malta,Low
+5161,Fashion_161,Fashion,Cyprus,Low
+5162,Utilities_162,Utilities,Belgium,Low
+5163,HEALTH_163,Health,Germany,Low
+5164,Fashion_164,Fashion,Germany,Low
+5165,Groceries_165,Groceries,Malta,Low
+5166,Fashion_166,Fashion,Cyprus,Low
+5167,Utilities 167,Utilities,Sweden,Low
+5168,Insurance_168,Insurance,Malta,Low
+5169,Travel_169,Travel,France,Medium
+5170,Travel_170,Travel,Poland,Medium
+5171,HEALTH_171,Health,Belgium,Low
+5172,Utilities_172,Utilities,Ireland,Low
+5173,Fashion_173,Fashion,Ireland,Low
+5174,Electronics_174,Electronics,Poland,Medium
+5175,Utilities_175,Utilities,Cyprus,Low
+5176,Groceries_176,Groceries,Malta,Low
+5177,Groceries_177,Groceries,Lithuania,Low
+5178,Education_178,Education,Belgium,Low
+5179,Electronics_179,Electronics,Portugal,Medium
+5180,OnlineGaming_180,Online Gaming,Cyprus,High
+5181,RESTAURANTS_181,Restaurants,Lithuania,Low
+5182,Travel_182,Travel,Poland,Medium
+5183,Utilities_183,Utilities,Malta,Low
+5184,Fashion_184,Fashion,Spain,Low
+5185,Travel_185,Travel,Germany,Medium
+5186,CryptoServices_186,Crypto Services,Poland,High
+5187,Utilities_187,Utilities,Spain,Low
+5188,EDUCATION_188,Education,Sweden,Low
+5189,Travel 189,Travel,Romania,Medium
+5190,Restaurants 190,Restaurants,Poland,Low
+5191,Health_191,Health,Spain,Low
+5192,Electronics_192,Electronics,Germany,Medium
+5193,ONLINEGAMING_193,Online Gaming,Malta,High
+5194,Groceries_194,Groceries,Spain,Low
+5195,Groceries_195,Groceries,Italy,Low
+5196,Travel_196,Travel,Portugal,Medium
+5197,OnlineGaming_197,Online Gaming,Belgium,High
+5198,HEALTH_198,Health,Germany,Low
+5199,Restaurants_199,Restaurants,France,Low
+5200,Electronics 200,Electronics,Netherlands,Medium
+5201,Groceries_201,Groceries,Sweden,Low
+5202,RESTAURANTS_202,Restaurants,Portugal,Low
+5203,Electronics_203,Electronics,Sweden,Medium
+5204,Fashion 204,Fashion,Sweden,Low
+5205,Fashion_205,Fashion,Cyprus,Low
+5206,Travel_206,Travel,Romania,Medium
+5207,Fashion_207,Fashion,Romania,Low
+5208,Utilities_208,Utilities,Romania,Low
+5209,Groceries 209,Groceries,Poland,Low
+5210,Travel_210,Travel,Portugal,Medium
+5211,Travel_211,Travel,Portugal,Medium
+5212,RESTAURANTS_212,Restaurants,Lithuania,Low
+5213,OnlineGaming_213,Online Gaming,Germany,High
+5214,Travel_214,Travel,Netherlands,Medium
+5215,Fashion_215,Fashion,Belgium,Low
+5216,Electronics_216,Electronics,Ireland,Medium
+5217,Electronics_217,Electronics,France,Medium
+5218,Restaurants 218,Restaurants,Sweden,Low
+5219,Utilities_219,Utilities,Germany,Low
+5220,ATM_220,ATM,Portugal,Medium
+5221,EDUCATION_221,Education,Lithuania,Low
+5222,Health_222,Health,Ireland,Low
+5223,Fashion_223,Fashion,Romania,Low
+5224,Insurance_224,Insurance,Portugal,Low
+5225,ATM_225,ATM,Cyprus,Medium
+5226,OnlineGaming_226,Online Gaming,Belgium,High
+5227,Utilities_227,Utilities,Cyprus,Low
+5228,Utilities_228,Utilities,France,Low
+5229,ATM_229,ATM,Italy,Medium
+5230,CryptoServices_230,Crypto Services,Spain,High
+5231,ATM_231,ATM,Italy,Medium
+5232,Fashion_232,Fashion,Malta,Low
+5233,Restaurants_233,Restaurants,Cyprus,Low
+5234,Fashion_234,Fashion,Netherlands,Low
+5235,Education_235,Education,Cyprus,Low
+5236,Education_236,Education,Belgium,Low
+5237,EDUCATION_237,Education,Ireland,Low
+5238,CryptoServices_238,Crypto Services,Ireland,High
+5239,Groceries_239,Groceries,Lithuania,Low
+5240,Health 240,Health,Poland,Low
+5241,GROCERIES_241,Groceries,Cyprus,Low
+5242,Education_242,Education,Netherlands,Low
+5243,ELECTRONICS_243,Electronics,Belgium,Medium
+5244,Groceries_244,Groceries,Belgium,Low
+5245,Health_245,Health,Italy,Low
+5246,ONLINEGAMING 246,Online Gaming,Romania,High
+5247,ATM_247,ATM,Germany,Medium
+5248,Restaurants_248,Restaurants,Spain,Low
+5249,Education_249,Education,Malta,Low
+5250,Travel_250,Travel,Malta,Medium
+5251,Fashion_251,Fashion,Sweden,Low
+5252,CryptoServices_252,Crypto Services,Spain,High
+5253,ATM_253,ATM,Germany,Medium
+5254,Travel_254,Travel,Germany,Medium
+5255,Education_255,Education,Poland,Low
+5256,Groceries_256,Groceries,Spain,Low
+5257,Fashion_257,Fashion,Ireland,Low
+5258,Groceries_258,Groceries,Italy,Low
+5259,ATM_259,ATM,Italy,Medium
+5260,Travel_260,Travel,Spain,Medium
+5261,OnlineGaming 261,Online Gaming,Sweden,High
+5262,Insurance_262,Insurance,France,Low
+5263,EDUCATION_263,Education,Italy,Low
+5264,FASHION_264,Fashion,Malta,Low
+5265,OnlineGaming_265,Online Gaming,Ireland,High
+5266,RESTAURANTS_266,Restaurants,Italy,Low
+5267,Groceries_267,Groceries,France,Low
+5268,Health 268,Health,Romania,Low
+5269,ATM_269,ATM,Germany,Medium
+5270,Restaurants_270,Restaurants,Malta,Low
+5271,Groceries_271,Groceries,Belgium,Low
+5272,Restaurants_272,Restaurants,Sweden,Low
+5273,Fashion_273,Fashion,Malta,Low
+5274,Groceries_274,Groceries,Lithuania,Low
+5275,Utilities_275,Utilities,Belgium,Low
+5276,Restaurants_276,Restaurants,Sweden,Low
+5277,Fashion_277,Fashion,Sweden,Low
+5278,Fashion_278,Fashion,Italy,Low
+5279,Groceries_279,Groceries,Germany,Low
+5280,Groceries_280,Groceries,France,Low
+5281,Travel_281,Travel,Cyprus,Medium
+5282,Groceries_282,Groceries,Sweden,Low
+5283,Groceries_283,Groceries,Poland,Low
+5284,Fashion_284,Fashion,Ireland,Low
+5285,ATM_285,ATM,Belgium,Medium
+5286,Groceries_286,Groceries,France,Low
+5287,Travel_287,Travel,Netherlands,Medium
+5288,Groceries_288,Groceries,France,Low
+5289,Electronics_289,Electronics,Poland,Medium
+5290,ATM_290,ATM,Lithuania,Medium
+5291,Electronics_291,Electronics,Lithuania,Medium
+5292,Fashion_292,Fashion,Lithuania,Low
+5293,ATM_293,ATM,Lithuania,Medium
+5294,Groceries_294,Groceries,Netherlands,Low
+5295,GROCERIES_295,Groceries,Italy,Low
+5296,Restaurants_296,Restaurants,Portugal,Low
+5297,HEALTH_297,Health,Italy,Low
+5298,Utilities_298,Utilities,Germany,Low
+5299,Travel_299,Travel,Portugal,Medium
+5300,Groceries_300,Groceries,Malta,Low
+5301,ATM_301,ATM,Lithuania,Medium
+5302,Fashion_302,Fashion,Germany,Low
+5303,Fashion_303,Fashion,Italy,Low
+5304,Insurance_304,Insurance,Cyprus,Low
+5305,Fashion_305,Fashion,Germany,Low
+5306,Utilities_306,Utilities,Germany,Low
+5307,FASHION_307,Fashion,Germany,Low
+5308,Education_308,Education,Italy,Low
+5309,GROCERIES_309,Groceries,Italy,Low
+5310,Travel_310,Travel,Cyprus,Medium
+5311,Utilities_311,Utilities,Poland,Low
+5312,Utilities_312,Utilities,Poland,Low
+5313,ATM_313,ATM,Portugal,Medium
+5314,Utilities_314,Utilities,Poland,Low
+5315,Restaurants_315,Restaurants,Belgium,Low
+5316,Travel 316,Travel,Spain,Medium
+5317,Restaurants_317,Restaurants,Cyprus,Low
+5318,Electronics_318,Electronics,Sweden,Medium
+5319,Travel_319,Travel,Spain,Medium
+5320,RESTAURANTS_320,Restaurants,Romania,Low
+5321,Groceries_321,Groceries,Cyprus,Low
+5322,Travel_322,Travel,Netherlands,Medium
+5323,Fashion_323,Fashion,Germany,Low
+5324,Restaurants_324,Restaurants,France,Low
+5325,Electronics_325,Electronics,Sweden,Medium
+5326,INSURANCE_326,Insurance,Poland,Low
+5327,Groceries_327,Groceries,Sweden,Low
+5328,Travel_328,Travel,Portugal,Medium
+5329,Utilities_329,Utilities,Lithuania,Low
+5330,Groceries_330,Groceries,Germany,Low
+5331,Restaurants_331,Restaurants,Italy,Low
+5332,Utilities_332,Utilities,Lithuania,Low
+5333,Fashion 333,Fashion,Germany,Low
+5334,Insurance_334,Insurance,France,Low
+5335,Utilities_335,Utilities,France,Low
+5336,Restaurants_336,Restaurants,Malta,Low
+5337,Fashion_337,Fashion,France,Low
+5338,Restaurants_338,Restaurants,Netherlands,Low
+5339,Utilities_339,Utilities,Germany,Low
+5340,Health_340,Health,Ireland,Low
+5341,Fashion_341,Fashion,Germany,Low
+5342,Utilities_342,Utilities,Italy,Low
+5343,Groceries_343,Groceries,Lithuania,Low
+5344,RESTAURANTS_344,Restaurants,Italy,Low
+5345,Fashion_345,Fashion,Romania,Low
+5346,Restaurants_346,Restaurants,Netherlands,Low
+5347,Fashion_347,Fashion,Spain,Low
+5348,ATM_348,ATM,Belgium,Medium
+5349,EDUCATION_349,Education,Sweden,Low
+5350,Groceries_350,Groceries,Ireland,Low
+5351,Electronics_351,Electronics,Poland,Medium
+5352,Electronics_352,Electronics,Malta,Medium
+5353,ELECTRONICS_353,Electronics,Ireland,Medium
+5354,Groceries_354,Groceries,Belgium,Low
+5355,UTILITIES_355,Utilities,Malta,Low
+5356,Travel_356,Travel,Netherlands,Medium
+5357,Utilities_357,Utilities,Sweden,Low
+5358,ATM_358,ATM,Belgium,Medium
+5359,OnlineGaming_359,Online Gaming,Ireland,High
+5360,Health_360,Health,Belgium,Low
+5361,Travel_361,Travel,Malta,Medium
+5362,Fashion 362,Fashion,Lithuania,Low
+5363,ATM_363,ATM,Spain,Medium
+5364,EDUCATION_364,Education,Sweden,Low
+5365,Travel_365,Travel,Italy,Medium
+5366,Insurance 366,Insurance,Netherlands,Low
+5367,Electronics_367,Electronics,Italy,Medium
+5368,TRAVEL_368,Travel,Italy,Medium
+5369,Health_369,Health,Romania,Low
+5370,Restaurants_370,Restaurants,France,Low
+5371,Insurance_371,Insurance,France,Low
+5372,Insurance_372,Insurance,Italy,Low
+5373,Restaurants_373,Restaurants,Belgium,Low
+5374,Insurance_374,Insurance,Sweden,Low
+5375,ATM_375,ATM,France,Medium
+5376,Electronics_376,Electronics,Belgium,Medium
+5377,Groceries_377,Groceries,France,Low
+5378,INSURANCE_378,Insurance,Netherlands,Low
+5379,Restaurants_379,Restaurants,Belgium,Low
+5380,Fashion_380,Fashion,Netherlands,Low
+5381,Restaurants_381,Restaurants,Lithuania,Low
+5382,Restaurants_382,Restaurants,Sweden,Low
+5383,Groceries_383,Groceries,France,Low
+5384,Electronics_384,Electronics,Malta,Medium
+5385,Fashion_385,Fashion,Belgium,Low
+5386,Utilities 386,Utilities,Poland,Low
+5387,UTILITIES_387,Utilities,Belgium,Low
+5388,TRAVEL_388,Travel,Germany,Medium
+5389,UTILITIES_389,Utilities,Malta,Low
+5390,Fashion_390,Fashion,Portugal,Low
+5391,Groceries_391,Groceries,Netherlands,Low
+5392,Groceries_392,Groceries,Lithuania,Low
+5393,Groceries_393,Groceries,Ireland,Low
+5394,Health 394,Health,Netherlands,Low
+5395,ATM_395,ATM,Lithuania,Medium
+5396,Restaurants_396,Restaurants,France,Low
+5397,ELECTRONICS_397,Electronics,Lithuania,Medium
+5398,Restaurants_398,Restaurants,Ireland,Low
+5399,Restaurants_399,Restaurants,Sweden,Low
+5400,OnlineGaming_400,Online Gaming,Lithuania,High
+5401,FASHION_401,Fashion,Italy,Low
+5402,Electronics_402,Electronics,Belgium,Medium
+5403,ONLINEGAMING_403,Online Gaming,Lithuania,High
+5404,CryptoServices_404,Crypto Services,Portugal,High
+5405,ATM_405,ATM,Malta,Medium
+5406,Groceries_406,Groceries,Sweden,Low
+5407,Groceries_407,Groceries,Poland,Low
+5408,Groceries 408,Groceries,Sweden,Low
+5409,Restaurants_409,Restaurants,Belgium,Low
+5410,Insurance_410,Insurance,Poland,Low
+5411,Groceries_411,Groceries,Malta,Low
+5412,GROCERIES_412,Groceries,Netherlands,Low
+5413,EDUCATION_413,Education,Spain,Low
+5414,ATM_414,ATM,Spain,Medium
+5415,ELECTRONICS 415,Electronics,Poland,Medium
+5416,Electronics_416,Electronics,Ireland,Medium
+5417,HEALTH_417,Health,Belgium,Low
+5418,Fashion_418,Fashion,Sweden,Low
+5419,Electronics_419,Electronics,France,Medium
+5420,CryptoServices_420,Crypto Services,Portugal,High
+5421,TRAVEL_421,Travel,Cyprus,Medium
+5422,Insurance_422,Insurance,Spain,Low
+5423,OnlineGaming_423,Online Gaming,Spain,High
+5424,Groceries_424,Groceries,Ireland,Low
+5425,Restaurants_425,Restaurants,Sweden,Low
+5426,RESTAURANTS_426,Restaurants,France,Low
+5427,Fashion_427,Fashion,France,Low
+5428,Restaurants_428,Restaurants,France,Low
+5429,Travel_429,Travel,Netherlands,Medium
+5430,TRAVEL_430,Travel,France,Medium
+5431,INSURANCE_431,Insurance,Netherlands,Low
+5432,Education 432,Education,Cyprus,Low
+5433,Groceries_433,Groceries,Cyprus,Low
+5434,Travel_434,Travel,Germany,Medium
+5435,HEALTH_435,Health,Romania,Low
+5436,Education_436,Education,Sweden,Low
+5437,GROCERIES_437,Groceries,Malta,Low
+5438,OnlineGaming_438,Online Gaming,Poland,High
+5439,Insurance_439,Insurance,Romania,Low
+5440,Restaurants_440,Restaurants,Ireland,Low
+5441,OnlineGaming_441,Online Gaming,Germany,High
+5442,Health 442,Health,Spain,Low
+5443,RESTAURANTS 443,Restaurants,Malta,Low
+5444,Restaurants_444,Restaurants,Ireland,Low
+5445,Health_445,Health,Germany,Low
+5446,Restaurants_446,Restaurants,Spain,Low
+5447,ONLINEGAMING_447,Online Gaming,France,High
+5448,GROCERIES_448,Groceries,Netherlands,Low
+5449,Travel 449,Travel,Portugal,Medium
+5450,Restaurants_450,Restaurants,Cyprus,Low
+5451,Restaurants_451,Restaurants,Netherlands,Low
+5452,Fashion_452,Fashion,Portugal,Low
+5453,Restaurants_453,Restaurants,Portugal,Low
+5454,Groceries_454,Groceries,Italy,Low
+5455,Groceries 455,Groceries,Sweden,Low
+5456,Groceries_456,Groceries,Ireland,Low
+5457,Groceries_457,Groceries,Cyprus,Low
+5458,TRAVEL_458,Travel,Romania,Medium
+5459,ATM_459,ATM,Italy,Medium
+5460,Groceries_460,Groceries,Germany,Low
+5461,Fashion_461,Fashion,Romania,Low
+5462,Education_462,Education,France,Low
+5463,Restaurants_463,Restaurants,France,Low
+5464,Groceries_464,Groceries,Portugal,Low
+5465,Groceries_465,Groceries,Germany,Low
+5466,Fashion_466,Fashion,Belgium,Low
+5467,Fashion 467,Fashion,Cyprus,Low
+5468,FASHION_468,Fashion,Germany,Low
+5469,Travel 469,Travel,Lithuania,Medium
+5470,Education_470,Education,Spain,Low
+5471,OnlineGaming_471,Online Gaming,Italy,High
+5472,Health_472,Health,France,Low
+5473,OnlineGaming_473,Online Gaming,Italy,High
+5474,CryptoServices_474,Crypto Services,Sweden,High
+5475,ELECTRONICS_475,Electronics,Sweden,Medium
+5476,Groceries_476,Groceries,Germany,Low
+5477,Fashion_477,Fashion,Lithuania,Low
+5478,Groceries_478,Groceries,France,Low
+5479,ATM_479,ATM,Cyprus,Medium
+5480,RESTAURANTS 480,Restaurants,Netherlands,Low
+5481,Education_481,Education,Sweden,Low
+5482,Electronics_482,Electronics,Ireland,Medium
+5483,Fashion_483,Fashion,Lithuania,Low
+5484,Electronics_484,Electronics,Malta,Medium
+5485,Fashion_485,Fashion,Belgium,Low
+5486,Restaurants_486,Restaurants,Netherlands,Low
+5487,UTILITIES_487,Utilities,Poland,Low
+5488,OnlineGaming 488,Online Gaming,Germany,High
+5489,Restaurants_489,Restaurants,Cyprus,Low
+5490,Utilities_490,Utilities,Netherlands,Low
+5491,Groceries 491,Groceries,Portugal,Low
+5492,FASHION_492,Fashion,Poland,Low
+5493,Health_493,Health,Cyprus,Low
+5494,Education_494,Education,Poland,Low
+5495,Fashion_495,Fashion,Netherlands,Low
+5496,Groceries_496,Groceries,Malta,Low
+5497,Restaurants_497,Restaurants,Cyprus,Low
+5498,Health_498,Health,Sweden,Low
+5499,Groceries_499,Groceries,Italy,Low
+5500,Fashion_500,Fashion,Spain,Low
+5501,Travel_501,Travel,Italy,Medium
+5502,Education_502,Education,France,Low
+5503,Fashion_503,Fashion,Cyprus,Low
+5504,Groceries_504,Groceries,Romania,Low
+5505,Groceries_505,Groceries,Romania,Low
+5506,Electronics_506,Electronics,Belgium,Medium
+5507,Insurance_507,Insurance,Germany,Low
+5508,Electronics_508,Electronics,Malta,Medium
+5509,Restaurants_509,Restaurants,Sweden,Low
+5510,CryptoServices_510,Crypto Services,Romania,High
+5511,Electronics_511,Electronics,Romania,Medium
+5512,GROCERIES_512,Groceries,Lithuania,Low
+5513,Electronics_513,Electronics,Netherlands,Medium
+5514,Health_514,Health,Belgium,Low
+5515,Groceries_515,Groceries,Portugal,Low
+5516,Fashion_516,Fashion,Poland,Low
+5517,Insurance_517,Insurance,Cyprus,Low
+5518,Health_518,Health,Belgium,Low
+5519,INSURANCE 519,Insurance,Ireland,Low
+5520,FASHION_520,Fashion,Germany,Low
+5521,Groceries_521,Groceries,Sweden,Low
+5522,Groceries_522,Groceries,Cyprus,Low
+5523,Groceries 523,Groceries,Portugal,Low
+5524,Electronics_524,Electronics,Ireland,Medium
+5525,ATM_525,ATM,Netherlands,Medium
+5526,Electronics_526,Electronics,France,Medium
+5527,Groceries_527,Groceries,Germany,Low
+5528,Insurance_528,Insurance,Sweden,Low
+5529,ELECTRONICS_529,Electronics,Italy,Medium
+5530,Health_530,Health,Spain,Low
+5531,Groceries_531,Groceries,Germany,Low
+5532,Restaurants_532,Restaurants,Germany,Low
+5533,CRYPTOSERVICES_533,Crypto Services,France,High
+5534,Groceries_534,Groceries,Belgium,Low
+5535,Restaurants_535,Restaurants,Italy,Low
+5536,Fashion_536,Fashion,Spain,Low
+5537,ATM_537,ATM,Ireland,Medium
+5538,Restaurants 538,Restaurants,Sweden,Low
+5539,Restaurants_539,Restaurants,France,Low
+5540,OnlineGaming_540,Online Gaming,Sweden,High
+5541,Education_541,Education,Sweden,Low
+5542,RESTAURANTS_542,Restaurants,Romania,Low
+5543,Utilities_543,Utilities,Malta,Low
+5544,Fashion_544,Fashion,Poland,Low
+5545,Utilities_545,Utilities,Romania,Low
+5546,GROCERIES_546,Groceries,Italy,Low
+5547,Travel_547,Travel,Belgium,Medium
+5548,GROCERIES_548,Groceries,Belgium,Low
+5549,FASHION 549,Fashion,Cyprus,Low
+5550,GROCERIES_550,Groceries,Germany,Low
+5551,Fashion_551,Fashion,Ireland,Low
+5552,Restaurants_552,Restaurants,France,Low
+5553,CRYPTOSERVICES_553,Crypto Services,Romania,High
+5554,Travel_554,Travel,Netherlands,Medium
+5555,Fashion 555,Fashion,Italy,Low
+5556,Travel 556,Travel,Poland,Medium
+5557,Travel_557,Travel,Romania,Medium
+5558,Travel_558,Travel,Ireland,Medium
+5559,Utilities_559,Utilities,Spain,Low
+5560,FASHION_560,Fashion,Lithuania,Low
+5561,Utilities_561,Utilities,Netherlands,Low
+5562,Education_562,Education,Romania,Low
+5563,Restaurants_563,Restaurants,Portugal,Low
+5564,Travel_564,Travel,Malta,Medium
+5565,Groceries_565,Groceries,Poland,Low
+5566,Travel_566,Travel,Ireland,Medium
+5567,Travel_567,Travel,Malta,Medium
+5568,Fashion_568,Fashion,Malta,Low
+5569,Utilities 569,Utilities,Ireland,Low
+5570,TRAVEL_570,Travel,Portugal,Medium
+5571,OnlineGaming_571,Online Gaming,Portugal,High
+5572,Restaurants_572,Restaurants,Germany,Low
+5573,TRAVEL_573,Travel,Portugal,Medium
+5574,Electronics_574,Electronics,Malta,Medium
+5575,Fashion_575,Fashion,Italy,Low
+5576,Restaurants_576,Restaurants,Germany,Low
+5577,Utilities 577,Utilities,Cyprus,Low
+5578,Utilities_578,Utilities,Sweden,Low
+5579,ATM_579,ATM,Lithuania,Medium
+5580,OnlineGaming_580,Online Gaming,Italy,High
+5581,Electronics_581,Electronics,Netherlands,Medium
+5582,Education_582,Education,Romania,Low
+5583,Travel_583,Travel,Sweden,Medium
+5584,HEALTH_584,Health,Cyprus,Low
+5585,Fashion 585,Fashion,France,Low
+5586,Restaurants_586,Restaurants,Lithuania,Low
+5587,Fashion 587,Fashion,Portugal,Low
+5588,Groceries_588,Groceries,Germany,Low
+5589,GROCERIES_589,Groceries,Belgium,Low
+5590,Fashion_590,Fashion,Italy,Low
+5591,ATM_591,ATM,Cyprus,Medium
+5592,OnlineGaming 592,Online Gaming,Netherlands,High
+5593,HEALTH_593,Health,Lithuania,Low
+5594,Restaurants_594,Restaurants,Poland,Low
+5595,ATM_595,ATM,Italy,Medium
+5596,ATM_596,ATM,France,Medium
+5597,Utilities_597,Utilities,Belgium,Low
+5598,Groceries_598,Groceries,Poland,Low
+5599,CryptoServices_599,Crypto Services,Portugal,High
+5600,Electronics 600,Electronics,Sweden,Medium
+5601,Restaurants_601,Restaurants,Belgium,Low
+5602,Electronics_602,Electronics,Poland,Medium
+5603,RESTAURANTS_603,Restaurants,Sweden,Low
+5604,ELECTRONICS_604,Electronics,Ireland,Medium
+5605,Groceries_605,Groceries,France,Low
+5606,UTILITIES_606,Utilities,Germany,Low
+5607,Insurance_607,Insurance,Romania,Low
+5608,Health_608,Health,Germany,Low
+5609,Restaurants_609,Restaurants,Portugal,Low
+5610,HEALTH_610,Health,Romania,Low
+5611,Groceries_611,Groceries,Italy,Low
+5612,ONLINEGAMING_612,Online Gaming,Poland,High
+5613,Health_613,Health,Spain,Low
+5614,Fashion_614,Fashion,Portugal,Low
+5615,Education_615,Education,Spain,Low
+5616,Insurance_616,Insurance,Netherlands,Low
+5617,Health_617,Health,Portugal,Low
+5618,Education_618,Education,Sweden,Low
+5619,GROCERIES 619,Groceries,Spain,Low
+5620,TRAVEL_620,Travel,Cyprus,Medium
+5621,Education_621,Education,Cyprus,Low
+5622,FASHION_622,Fashion,Italy,Low
+5623,OnlineGaming_623,Online Gaming,Ireland,High
+5624,Travel_624,Travel,France,Medium
+5625,Groceries_625,Groceries,France,Low
+5626,Fashion_626,Fashion,France,Low
+5627,Groceries_627,Groceries,Germany,Low
+5628,Utilities_628,Utilities,Cyprus,Low
+5629,Education_629,Education,Malta,Low
+5630,ATM_630,ATM,Malta,Medium
+5631,Health 631,Health,Netherlands,Low
+5632,Health_632,Health,Romania,Low
+5633,Restaurants_633,Restaurants,Belgium,Low
+5634,Electronics_634,Electronics,Poland,Medium
+5635,ATM_635,ATM,Portugal,Medium
+5636,Groceries_636,Groceries,Portugal,Low
+5637,ELECTRONICS_637,Electronics,Malta,Medium
+5638,Electronics_638,Electronics,Germany,Medium
+5639,HEALTH_639,Health,Netherlands,Low
+5640,Restaurants_640,Restaurants,Belgium,Low
+5641,Fashion_641,Fashion,Germany,Low
+5642,TRAVEL_642,Travel,Germany,Medium
+5643,Health_643,Health,Belgium,Low
+5644,Fashion_644,Fashion,Portugal,Low
+5645,Groceries_645,Groceries,Italy,Low
+5646,Groceries_646,Groceries,Malta,Low
+5647,TRAVEL 647,Travel,Netherlands,Medium
+5648,Utilities_648,Utilities,Malta,Low
+5649,Fashion 649,Fashion,Belgium,Low
+5650,Electronics_650,Electronics,France,Medium
+5651,Groceries 651,Groceries,Portugal,Low
+5652,Groceries_652,Groceries,Ireland,Low
+5653,Restaurants_653,Restaurants,Lithuania,Low
+5654,Restaurants_654,Restaurants,Ireland,Low
+5655,Fashion_655,Fashion,Italy,Low
+5656,CryptoServices_656,Crypto Services,Romania,High
+5657,Travel_657,Travel,Spain,Medium
+5658,Utilities_658,Utilities,Netherlands,Low
+5659,Insurance_659,Insurance,Malta,Low
+5660,ELECTRONICS_660,Electronics,Belgium,Medium
+5661,Fashion_661,Fashion,Netherlands,Low
+5662,Utilities_662,Utilities,Sweden,Low
+5663,Restaurants_663,Restaurants,Belgium,Low
+5664,OnlineGaming_664,Online Gaming,Sweden,High
+5665,Health_665,Health,Germany,Low
+5666,Utilities_666,Utilities,Portugal,Low
+5667,Utilities_667,Utilities,Cyprus,Low
+5668,FASHION 668,Fashion,Malta,Low
+5669,Education_669,Education,Ireland,Low
+5670,Groceries 670,Groceries,Cyprus,Low
+5671,OnlineGaming_671,Online Gaming,Germany,High
+5672,Travel_672,Travel,Netherlands,Medium
+5673,TRAVEL_673,Travel,Sweden,Medium
+5674,Groceries_674,Groceries,Ireland,Low
+5675,HEALTH_675,Health,Portugal,Low
+5676,Electronics_676,Electronics,Portugal,Medium
+5677,Groceries_677,Groceries,Netherlands,Low
+5678,Groceries_678,Groceries,Spain,Low
+5679,Groceries_679,Groceries,Lithuania,Low
+5680,Groceries_680,Groceries,Spain,Low
+5681,Groceries_681,Groceries,Germany,Low
+5682,HEALTH_682,Health,Netherlands,Low
+5683,Restaurants_683,Restaurants,Lithuania,Low
+5684,CryptoServices_684,Crypto Services,Lithuania,High
+5685,Restaurants_685,Restaurants,Netherlands,Low
+5686,Health_686,Health,Ireland,Low
+5687,Insurance_687,Insurance,Sweden,Low
+5688,Utilities_688,Utilities,Ireland,Low
+5689,RESTAURANTS_689,Restaurants,Germany,Low
+5690,FASHION_690,Fashion,Romania,Low
+5691,Fashion_691,Fashion,Spain,Low
+5692,ATM_692,ATM,Portugal,Medium
+5693,Groceries_693,Groceries,Belgium,Low
+5694,Fashion_694,Fashion,Italy,Low
+5695,Electronics_695,Electronics,Cyprus,Medium
+5696,Groceries_696,Groceries,Romania,Low
+5697,Travel_697,Travel,Malta,Medium
+5698,INSURANCE_698,Insurance,France,Low
+5699,GROCERIES_699,Groceries,France,Low
+5700,Travel_700,Travel,Romania,Medium
+5701,Groceries_701,Groceries,Netherlands,Low
+5702,Fashion_702,Fashion,Cyprus,Low
+5703,Fashion_703,Fashion,Sweden,Low
+5704,Electronics_704,Electronics,Lithuania,Medium
+5705,OnlineGaming_705,Online Gaming,Spain,High
+5706,ATM_706,ATM,Netherlands,Medium
+5707,Groceries_707,Groceries,Romania,Low
+5708,Utilities_708,Utilities,Romania,Low
+5709,Health_709,Health,Belgium,Low
+5710,Restaurants_710,Restaurants,Germany,Low
+5711,GROCERIES_711,Groceries,Romania,Low
+5712,Utilities 712,Utilities,Spain,Low
+5713,Restaurants_713,Restaurants,Portugal,Low
+5714,OnlineGaming_714,Online Gaming,Italy,High
+5715,Restaurants_715,Restaurants,Poland,Low
+5716,UTILITIES_716,Utilities,France,Low
+5717,Fashion_717,Fashion,Netherlands,Low
+5718,FASHION_718,Fashion,Poland,Low
+5719,ATM_719,ATM,Romania,Medium
+5720,OnlineGaming_720,Online Gaming,Romania,High
+5721,Education_721,Education,Portugal,Low
+5722,UTILITIES_722,Utilities,Spain,Low
+5723,Health_723,Health,Italy,Low
+5724,Restaurants_724,Restaurants,Italy,Low
+5725,CryptoServices_725,Crypto Services,Netherlands,High
+5726,Restaurants_726,Restaurants,Ireland,Low
+5727,Electronics_727,Electronics,Poland,Medium
+5728,Utilities_728,Utilities,Ireland,Low
+5729,OnlineGaming_729,Online Gaming,Portugal,High
+5730,FASHION_730,Fashion,Ireland,Low
+5731,Electronics_731,Electronics,Cyprus,Medium
+5732,Restaurants_732,Restaurants,Spain,Low
+5733,Groceries_733,Groceries,Romania,Low
+5734,Groceries_734,Groceries,Italy,Low
+5735,Utilities_735,Utilities,Poland,Low
+5736,RESTAURANTS_736,Restaurants,Malta,Low
+5737,Groceries_737,Groceries,Romania,Low
+5738,Restaurants_738,Restaurants,France,Low
+5739,Restaurants_739,Restaurants,France,Low
+5740,Travel_740,Travel,Italy,Medium
+5741,Fashion_741,Fashion,Ireland,Low
+5742,Fashion_742,Fashion,Lithuania,Low
+5743,OnlineGaming_743,Online Gaming,Portugal,High
+5744,CryptoServices_744,Crypto Services,Italy,High
+5745,Restaurants_745,Restaurants,Poland,Low
+5746,Health_746,Health,Netherlands,Low
+5747,Electronics_747,Electronics,Lithuania,Medium
+5748,Fashion_748,Fashion,Romania,Low
+5749,Utilities_749,Utilities,Germany,Low
+5750,Groceries_750,Groceries,Netherlands,Low
+5751,Restaurants_751,Restaurants,Belgium,Low
+5752,Education_752,Education,France,Low
+5753,OnlineGaming_753,Online Gaming,Ireland,High
+5754,Fashion 754,Fashion,Italy,Low
+5755,GROCERIES 755,Groceries,Lithuania,Low
+5756,ONLINEGAMING_756,Online Gaming,Ireland,High
+5757,CryptoServices 757,Crypto Services,Italy,High
+5758,Restaurants_758,Restaurants,Belgium,Low
+5759,Electronics_759,Electronics,Italy,Medium
+5760,GROCERIES_760,Groceries,Belgium,Low
+5761,Restaurants_761,Restaurants,Sweden,Low
+5762,UTILITIES_762,Utilities,Sweden,Low
+5763,Fashion_763,Fashion,Italy,Low
+5764,Groceries 764,Groceries,Cyprus,Low
+5765,Education_765,Education,Cyprus,Low
+5766,Electronics_766,Electronics,Malta,Medium
+5767,Health 767,Health,Belgium,Low
+5768,ATM_768,ATM,Germany,Medium
+5769,Fashion_769,Fashion,Italy,Low
+5770,GROCERIES_770,Groceries,Ireland,Low
+5771,ATM_771,ATM,Netherlands,Medium
+5772,Groceries_772,Groceries,Romania,Low
+5773,Restaurants_773,Restaurants,Italy,Low
+5774,Groceries 774,Groceries,Spain,Low
+5775,OnlineGaming_775,Online Gaming,Cyprus,High
+5776,INSURANCE 776,Insurance,Sweden,Low
+5777,Restaurants_777,Restaurants,Netherlands,Low
+5778,Electronics_778,Electronics,Spain,Medium
+5779,OnlineGaming_779,Online Gaming,Ireland,High
+5780,GROCERIES_780,Groceries,Malta,Low
+5781,Fashion_781,Fashion,Italy,Low
+5782,Groceries_782,Groceries,Poland,Low
+5783,Fashion 783,Fashion,Romania,Low
+5784,Utilities 784,Utilities,Ireland,Low
+5785,Electronics_785,Electronics,Romania,Medium
+5786,Fashion_786,Fashion,Malta,Low
+5787,OnlineGaming_787,Online Gaming,Portugal,High
+5788,ATM_788,ATM,Sweden,Medium
+5789,Restaurants 789,Restaurants,Malta,Low
+5790,Groceries_790,Groceries,Portugal,Low
+5791,GROCERIES_791,Groceries,Portugal,Low
+5792,Utilities_792,Utilities,Lithuania,Low
+5793,Utilities_793,Utilities,Lithuania,Low
+5794,Travel_794,Travel,Spain,Medium
+5795,Fashion_795,Fashion,Netherlands,Low
+5796,Groceries_796,Groceries,Portugal,Low
+5797,Health_797,Health,Netherlands,Low
+5798,OnlineGaming 798,Online Gaming,Portugal,High
+5799,Restaurants_799,Restaurants,Spain,Low
+5800,Groceries_800,Groceries,Spain,Low
+5801,Fashion_801,Fashion,Malta,Low
+5802,Fashion_802,Fashion,Germany,Low
+5803,Health_803,Health,Germany,Low
+5804,Health_804,Health,Germany,Low
+5805,RESTAURANTS_805,Restaurants,Netherlands,Low
+5806,RESTAURANTS_806,Restaurants,Sweden,Low
+5807,Groceries_807,Groceries,France,Low
+5808,Electronics_808,Electronics,Ireland,Medium
+5809,Groceries_809,Groceries,Cyprus,Low
+5810,EDUCATION_810,Education,Cyprus,Low
+5811,CryptoServices_811,Crypto Services,Italy,High
+5812,Insurance_812,Insurance,Cyprus,Low
+5813,Utilities_813,Utilities,Sweden,Low
+5814,Fashion 814,Fashion,Germany,Low
+5815,OnlineGaming_815,Online Gaming,Sweden,High
+5816,TRAVEL_816,Travel,Belgium,Medium
+5817,CRYPTOSERVICES_817,Crypto Services,France,High
+5818,Groceries_818,Groceries,Malta,Low
+5819,Groceries_819,Groceries,Belgium,Low
+5820,Education_820,Education,Sweden,Low
+5821,GROCERIES_821,Groceries,Germany,Low
+5822,OnlineGaming_822,Online Gaming,France,High
+5823,Restaurants_823,Restaurants,Poland,Low
+5824,OnlineGaming_824,Online Gaming,Ireland,High
+5825,OnlineGaming_825,Online Gaming,Poland,High
+5826,Fashion_826,Fashion,Belgium,Low
+5827,Fashion_827,Fashion,Spain,Low
+5828,Groceries_828,Groceries,Netherlands,Low
+5829,Restaurants_829,Restaurants,Malta,Low
+5830,Fashion_830,Fashion,Poland,Low
+5831,Groceries_831,Groceries,Portugal,Low
+5832,Travel_832,Travel,Lithuania,Medium
+5833,ELECTRONICS_833,Electronics,Poland,Medium
+5834,RESTAURANTS_834,Restaurants,Malta,Low
+5835,Electronics_835,Electronics,Malta,Medium
+5836,Groceries_836,Groceries,Ireland,Low
+5837,TRAVEL_837,Travel,Belgium,Medium
+5838,Restaurants_838,Restaurants,Italy,Low
+5839,Restaurants_839,Restaurants,Belgium,Low
+5840,GROCERIES_840,Groceries,Netherlands,Low
+5841,Restaurants_841,Restaurants,France,Low
+5842,Health_842,Health,Malta,Low
+5843,Fashion_843,Fashion,Poland,Low
+5844,Groceries_844,Groceries,France,Low
+5845,Travel_845,Travel,Portugal,Medium
+5846,ATM_846,ATM,Spain,Medium
+5847,Insurance_847,Insurance,Romania,Low
+5848,Fashion_848,Fashion,Cyprus,Low
+5849,Education_849,Education,Malta,Low
+5850,ELECTRONICS_850,Electronics,Lithuania,Medium
+5851,Electronics_851,Electronics,Ireland,Medium
+5852,Restaurants_852,Restaurants,Sweden,Low
+5853,Health_853,Health,Ireland,Low
+5854,Groceries_854,Groceries,Cyprus,Low
+5855,Restaurants_855,Restaurants,Malta,Low
+5856,Groceries_856,Groceries,Poland,Low
+5857,Restaurants_857,Restaurants,Sweden,Low
+5858,Insurance 858,Insurance,Portugal,Low
+5859,ATM_859,ATM,Italy,Medium
+5860,Fashion_860,Fashion,Romania,Low
+5861,Groceries_861,Groceries,Sweden,Low
+5862,Insurance_862,Insurance,Poland,Low
+5863,Health_863,Health,Germany,Low
+5864,Fashion_864,Fashion,Sweden,Low
+5865,Groceries_865,Groceries,Portugal,Low
+5866,Groceries_866,Groceries,Cyprus,Low
+5867,Health 867,Health,Malta,Low
+5868,Restaurants_868,Restaurants,Poland,Low
+5869,EDUCATION_869,Education,Portugal,Low
+5870,Groceries_870,Groceries,Portugal,Low
+5871,Electronics_871,Electronics,Lithuania,Medium
+5872,Fashion_872,Fashion,Cyprus,Low
+5873,ATM_873,ATM,Malta,Medium
+5874,Restaurants_874,Restaurants,Lithuania,Low
+5875,Utilities_875,Utilities,Italy,Low
+5876,Restaurants_876,Restaurants,Poland,Low
+5877,TRAVEL_877,Travel,Poland,Medium
+5878,Fashion_878,Fashion,Italy,Low
+5879,Restaurants_879,Restaurants,Germany,Low
+5880,Fashion_880,Fashion,Romania,Low
+5881,Restaurants_881,Restaurants,Romania,Low
+5882,ATM_882,ATM,Portugal,Medium
+5883,Insurance 883,Insurance,Belgium,Low
+5884,ONLINEGAMING_884,Online Gaming,France,High
+5885,Restaurants 885,Restaurants,Germany,Low
+5886,Groceries_886,Groceries,Lithuania,Low
+5887,Restaurants_887,Restaurants,Malta,Low
+5888,Groceries_888,Groceries,France,Low
+5889,CryptoServices_889,Crypto Services,Italy,High
+5890,Fashion_890,Fashion,Ireland,Low
+5891,CryptoServices_891,Crypto Services,Sweden,High
+5892,Electronics_892,Electronics,Italy,Medium
+5893,Electronics_893,Electronics,Spain,Medium
+5894,Insurance_894,Insurance,Ireland,Low
+5895,RESTAURANTS_895,Restaurants,Sweden,Low
+5896,Electronics_896,Electronics,Belgium,Medium
+5897,Electronics 897,Electronics,Netherlands,Medium
+5898,Insurance_898,Insurance,Belgium,Low
+5899,Utilities_899,Utilities,Poland,Low
+5900,Utilities_900,Utilities,Lithuania,Low
+5901,Groceries 901,Groceries,Portugal,Low
+5902,Restaurants_902,Restaurants,Ireland,Low
+5903,ELECTRONICS_903,Electronics,Sweden,Medium
+5904,Fashion_904,Fashion,Netherlands,Low
+5905,Utilities 905,Utilities,Malta,Low
+5906,Travel_906,Travel,Malta,Medium
+5907,Restaurants_907,Restaurants,Cyprus,Low
+5908,Restaurants_908,Restaurants,Spain,Low
+5909,Fashion_909,Fashion,Poland,Low
+5910,Restaurants_910,Restaurants,Netherlands,Low
+5911,Utilities_911,Utilities,Spain,Low
+5912,Restaurants_912,Restaurants,Spain,Low
+5913,Utilities_913,Utilities,Sweden,Low
+5914,Restaurants_914,Restaurants,Italy,Low
+5915,Restaurants_915,Restaurants,Portugal,Low
+5916,Insurance_916,Insurance,Spain,Low
+5917,Fashion_917,Fashion,Spain,Low
+5918,ATM_918,ATM,Germany,Medium
+5919,Health_919,Health,France,Low
+5920,OnlineGaming_920,Online Gaming,France,High
+5921,Groceries_921,Groceries,Malta,Low
+5922,Groceries_922,Groceries,Poland,Low
+5923,Groceries_923,Groceries,Ireland,Low
+5924,OnlineGaming_924,Online Gaming,Netherlands,High
+5925,Groceries_925,Groceries,Cyprus,Low
+5926,Groceries_926,Groceries,Italy,Low
+5927,Utilities_927,Utilities,Belgium,Low
+5928,Electronics_928,Electronics,Spain,Medium
+5929,Restaurants_929,Restaurants,Romania,Low
+5930,Travel_930,Travel,Italy,Medium
+5931,ATM_931,ATM,Cyprus,Medium
+5932,CryptoServices_932,Crypto Services,Italy,High
+5933,Travel_933,Travel,Belgium,Medium
+5934,Utilities_934,Utilities,Sweden,Low
+5935,Fashion_935,Fashion,Belgium,Low
+5936,Education_936,Education,Italy,Low
+5937,ELECTRONICS_937,Electronics,Sweden,Medium
+5938,Fashion_938,Fashion,Lithuania,Low
+5939,Electronics_939,Electronics,Spain,Medium
+5940,Health_940,Health,Netherlands,Low
+5941,Travel_941,Travel,Netherlands,Medium
+5942,Restaurants_942,Restaurants,Sweden,Low
+5943,CryptoServices_943,Crypto Services,Germany,High
+5944,CryptoServices_944,Crypto Services,Ireland,High
+5945,Restaurants_945,Restaurants,Lithuania,Low
+5946,OnlineGaming_946,Online Gaming,Poland,High
+5947,RESTAURANTS 947,Restaurants,France,Low
+5948,Electronics_948,Electronics,Belgium,Medium
+5949,Health_949,Health,Germany,Low
+5950,Groceries_950,Groceries,Sweden,Low
+5951,GROCERIES_951,Groceries,Sweden,Low
+5952,Electronics_952,Electronics,Italy,Medium
+5953,GROCERIES_953,Groceries,Sweden,Low
+5954,Restaurants_954,Restaurants,Lithuania,Low
+5955,EDUCATION_955,Education,Sweden,Low
+5956,OnlineGaming_956,Online Gaming,Ireland,High
+5957,RESTAURANTS_957,Restaurants,Italy,Low
+5958,Utilities_958,Utilities,Spain,Low
+5959,Groceries_959,Groceries,Portugal,Low
+5960,Utilities_960,Utilities,Belgium,Low
+5961,Health_961,Health,Poland,Low
+5962,Groceries_962,Groceries,Italy,Low
+5963,ATM 963,ATM,Ireland,Medium
+5964,ATM_964,ATM,Romania,Medium
+5965,Utilities_965,Utilities,Belgium,Low
+5966,Electronics_966,Electronics,Sweden,Medium
+5967,Restaurants_967,Restaurants,Netherlands,Low
+5968,Electronics_968,Electronics,Poland,Medium
+5969,Restaurants_969,Restaurants,Ireland,Low
+5970,Education 970,Education,Netherlands,Low
+5971,GROCERIES_971,Groceries,Spain,Low
+5972,Insurance_972,Insurance,Sweden,Low
+5973,Insurance_973,Insurance,Spain,Low
+5974,TRAVEL_974,Travel,Portugal,Medium
+5975,Groceries_975,Groceries,Italy,Low
+5976,OnlineGaming_976,Online Gaming,Germany,High
+5977,OnlineGaming_977,Online Gaming,Spain,High
+5978,Groceries_978,Groceries,Sweden,Low
+5979,ATM_979,ATM,Ireland,Medium
+5980,OnlineGaming_980,Online Gaming,Romania,High
+5981,GROCERIES 981,Groceries,Portugal,Low
+5982,RESTAURANTS_982,Restaurants,France,Low
+5983,Travel_983,Travel,Malta,Medium
+5984,FASHION_984,Fashion,Sweden,Low
+5985,Insurance_985,Insurance,Portugal,Low
+5986,Restaurants_986,Restaurants,Lithuania,Low
+5987,GROCERIES_987,Groceries,France,Low
+5988,Electronics_988,Electronics,Portugal,Medium
+5989,ATM_989,ATM,Belgium,Medium
+5990,Fashion_990,Fashion,Poland,Low
+5991,FASHION_991,Fashion,Cyprus,Low
+5992,EDUCATION_992,Education,Spain,Low
+5993,Groceries_993,Groceries,Cyprus,Low
+5994,Travel_994,Travel,Germany,Medium
+5995,Travel_995,Travel,Malta,Medium
+5996,Restaurants 996,Restaurants,Germany,Low
+5997,Electronics_997,Electronics,Italy,Medium
+5998,ELECTRONICS_998,Electronics,Romania,Medium
+5999,Utilities_999,Utilities,Belgium,Low
+6000,OnlineGaming_1000,Online Gaming,Cyprus,High
+6001,Fashion_1001,Fashion,Italy,Low
+6002,Health_1002,Health,Spain,Low
+6003,Groceries_1003,Groceries,Germany,Low
+6004,Fashion_1004,Fashion,Netherlands,Low
+6005,Electronics_1005,Electronics,France,Medium
+6006,GROCERIES_1006,Groceries,Spain,Low
+6007,ATM_1007,ATM,Spain,Medium
+6008,Fashion_1008,Fashion,Sweden,Low
+6009,Education_1009,Education,Poland,Low
+6010,Education_1010,Education,Germany,Low
+6011,Health_1011,Health,Spain,Low
+6012,Utilities_1012,Utilities,Portugal,Low
+6013,Utilities 1013,Utilities,Belgium,Low
+6014,Groceries_1014,Groceries,Spain,Low
+6015,OnlineGaming_1015,Online Gaming,Italy,High
+6016,Utilities_1016,Utilities,Malta,Low
+6017,Groceries_1017,Groceries,Sweden,Low
+6018,OnlineGaming 1018,Online Gaming,Sweden,High
+6019,Fashion_1019,Fashion,Cyprus,Low
+6020,Insurance_1020,Insurance,Belgium,Low
+6021,Groceries_1021,Groceries,Italy,Low
+6022,ATM_1022,ATM,Belgium,Medium
+6023,Groceries_1023,Groceries,Romania,Low
+6024,Groceries_1024,Groceries,Germany,Low
+6025,TRAVEL 1025,Travel,Netherlands,Medium
+6026,Restaurants_1026,Restaurants,Spain,Low
+6027,Travel 1027,Travel,Sweden,Medium
+6028,Groceries_1028,Groceries,Ireland,Low
+6029,CryptoServices_1029,Crypto Services,Ireland,High
+6030,Travel_1030,Travel,Spain,Medium
+6031,ONLINEGAMING_1031,Online Gaming,Spain,High
+6032,UTILITIES_1032,Utilities,Netherlands,Low
+6033,ONLINEGAMING_1033,Online Gaming,Belgium,High
+6034,HEALTH_1034,Health,Italy,Low
+6035,Groceries_1035,Groceries,Cyprus,Low
+6036,Restaurants_1036,Restaurants,France,Low
+6037,Health_1037,Health,France,Low
+6038,Restaurants_1038,Restaurants,Netherlands,Low
+6039,Health 1039,Health,Portugal,Low
+6040,Groceries 1040,Groceries,Romania,Low
+6041,Groceries 1041,Groceries,Poland,Low
+6042,ATM 1042,ATM,Spain,Medium
+6043,Travel 1043,Travel,Portugal,Medium
+6044,Restaurants_1044,Restaurants,Belgium,Low
+6045,Education_1045,Education,Romania,Low
+6046,Electronics_1046,Electronics,Italy,Medium
+6047,Health_1047,Health,Romania,Low
+6048,ATM_1048,ATM,Spain,Medium
+6049,GROCERIES_1049,Groceries,Poland,Low
+6050,HEALTH_1050,Health,Spain,Low
+6051,Travel_1051,Travel,Portugal,Medium
+6052,Groceries_1052,Groceries,Germany,Low
+6053,Fashion_1053,Fashion,Italy,Low
+6054,GROCERIES_1054,Groceries,Lithuania,Low
+6055,Travel_1055,Travel,Romania,Medium
+6056,Groceries_1056,Groceries,Cyprus,Low
+6057,Fashion_1057,Fashion,Romania,Low
+6058,Insurance_1058,Insurance,Malta,Low
+6059,Travel 1059,Travel,Italy,Medium
+6060,Groceries_1060,Groceries,Portugal,Low
+6061,OnlineGaming 1061,Online Gaming,France,High
+6062,GROCERIES_1062,Groceries,Cyprus,Low
+6063,Fashion_1063,Fashion,Lithuania,Low
+6064,Fashion_1064,Fashion,Poland,Low
+6065,GROCERIES_1065,Groceries,Cyprus,Low
+6066,RESTAURANTS_1066,Restaurants,Ireland,Low
+6067,Insurance_1067,Insurance,Malta,Low
+6068,Health_1068,Health,Ireland,Low
+6069,TRAVEL_1069,Travel,France,Medium
+6070,Restaurants_1070,Restaurants,Portugal,Low
+6071,Electronics_1071,Electronics,Lithuania,Medium
+6072,Restaurants_1072,Restaurants,Belgium,Low
+6073,Groceries_1073,Groceries,Lithuania,Low
+6074,Groceries_1074,Groceries,Sweden,Low
+6075,Restaurants_1075,Restaurants,Portugal,Low
+6076,Travel_1076,Travel,France,Medium
+6077,Utilities_1077,Utilities,Belgium,Low
+6078,Utilities_1078,Utilities,Germany,Low
+6079,CryptoServices_1079,Crypto Services,Belgium,High
+6080,Health_1080,Health,Cyprus,Low
+6081,Education_1081,Education,France,Low
+6082,Restaurants_1082,Restaurants,Lithuania,Low
+6083,Restaurants_1083,Restaurants,Lithuania,Low
+6084,Utilities_1084,Utilities,Portugal,Low
+6085,Travel_1085,Travel,Poland,Medium
+6086,Groceries_1086,Groceries,Ireland,Low
+6087,Fashion_1087,Fashion,Romania,Low
+6088,Education 1088,Education,Sweden,Low
+6089,OnlineGaming_1089,Online Gaming,France,High
+6090,Groceries_1090,Groceries,Netherlands,Low
+6091,Education 1091,Education,Netherlands,Low
+6092,RESTAURANTS_1092,Restaurants,Lithuania,Low
+6093,CryptoServices_1093,Crypto Services,Cyprus,High
+6094,Travel_1094,Travel,Lithuania,Medium
+6095,OnlineGaming_1095,Online Gaming,Ireland,High
+6096,Groceries_1096,Groceries,Romania,Low
+6097,Electronics_1097,Electronics,Cyprus,Medium
+6098,Groceries_1098,Groceries,Ireland,Low
+6099,Fashion_1099,Fashion,Romania,Low
+6100,Travel_1100,Travel,Poland,Medium
+6101,HEALTH_1101,Health,Germany,Low
+6102,Restaurants 1102,Restaurants,France,Low
+6103,ELECTRONICS_1103,Electronics,Spain,Medium
+6104,Restaurants_1104,Restaurants,Lithuania,Low
+6105,Restaurants 1105,Restaurants,Spain,Low
+6106,Restaurants_1106,Restaurants,Cyprus,Low
+6107,Restaurants_1107,Restaurants,Lithuania,Low
+6108,Groceries_1108,Groceries,Netherlands,Low
+6109,Fashion_1109,Fashion,Ireland,Low
+6110,Groceries_1110,Groceries,Ireland,Low
+6111,HEALTH_1111,Health,Germany,Low
+6112,Travel_1112,Travel,Poland,Medium
+6113,Restaurants_1113,Restaurants,Belgium,Low
+6114,Restaurants_1114,Restaurants,Belgium,Low
+6115,Utilities_1115,Utilities,France,Low
+6116,Groceries_1116,Groceries,Ireland,Low
+6117,OnlineGaming_1117,Online Gaming,Malta,High
+6118,GROCERIES_1118,Groceries,Belgium,Low
+6119,Restaurants_1119,Restaurants,Italy,Low
+6120,UTILITIES_1120,Utilities,Spain,Low
+6121,Utilities_1121,Utilities,Cyprus,Low
+6122,Health_1122,Health,Germany,Low
+6123,RESTAURANTS_1123,Restaurants,France,Low
+6124,Health_1124,Health,Sweden,Low
+6125,Fashion_1125,Fashion,Spain,Low
+6126,Restaurants_1126,Restaurants,Malta,Low
+6127,Education_1127,Education,Cyprus,Low
+6128,Restaurants_1128,Restaurants,Poland,Low
+6129,Travel_1129,Travel,Italy,Medium
+6130,Education_1130,Education,Cyprus,Low
+6131,Electronics_1131,Electronics,Ireland,Medium
+6132,Groceries_1132,Groceries,Belgium,Low
+6133,Groceries_1133,Groceries,Belgium,Low
+6134,Health_1134,Health,Lithuania,Low
+6135,Education_1135,Education,Portugal,Low
+6136,OnlineGaming_1136,Online Gaming,France,High
+6137,Electronics 1137,Electronics,Poland,Medium
+6138,Insurance_1138,Insurance,Spain,Low
+6139,Fashion_1139,Fashion,Sweden,Low
+6140,Health_1140,Health,Cyprus,Low
+6141,Travel_1141,Travel,Lithuania,Medium
+6142,CryptoServices_1142,Crypto Services,Poland,High
+6143,Insurance_1143,Insurance,Ireland,Low
+6144,Restaurants_1144,Restaurants,Belgium,Low
+6145,ATM_1145,ATM,Belgium,Medium
+6146,Health_1146,Health,Romania,Low
+6147,GROCERIES_1147,Groceries,Sweden,Low
+6148,Health_1148,Health,Lithuania,Low
+6149,Electronics_1149,Electronics,Netherlands,Medium
+6150,Groceries_1150,Groceries,Netherlands,Low
+6151,ELECTRONICS_1151,Electronics,Italy,Medium
+6152,Groceries_1152,Groceries,France,Low
+6153,Electronics_1153,Electronics,Cyprus,Medium
+6154,Travel_1154,Travel,Italy,Medium
+6155,Groceries_1155,Groceries,Malta,Low
+6156,Education_1156,Education,Malta,Low
+6157,Fashion_1157,Fashion,Malta,Low
+6158,ATM_1158,ATM,Germany,Medium
+6159,OnlineGaming_1159,Online Gaming,France,High
+6160,ATM 1160,ATM,Lithuania,Medium
+6161,Groceries_1161,Groceries,Spain,Low
+6162,Groceries_1162,Groceries,France,Low
+6163,OnlineGaming_1163,Online Gaming,Italy,High
+6164,Groceries_1164,Groceries,Cyprus,Low
+6165,Utilities_1165,Utilities,Belgium,Low
+6166,Travel_1166,Travel,Cyprus,Medium
+6167,Utilities_1167,Utilities,Lithuania,Low
+6168,Restaurants_1168,Restaurants,Ireland,Low
+6169,Insurance_1169,Insurance,France,Low
+6170,OnlineGaming_1170,Online Gaming,Malta,High
+6171,Fashion_1171,Fashion,Spain,Low
+6172,Health_1172,Health,Spain,Low
+6173,Restaurants_1173,Restaurants,Netherlands,Low
+6174,Fashion_1174,Fashion,Romania,Low
+6175,Restaurants_1175,Restaurants,Germany,Low
+6176,Health_1176,Health,Italy,Low
+6177,Insurance_1177,Insurance,Belgium,Low
+6178,Groceries_1178,Groceries,Italy,Low
+6179,Fashion_1179,Fashion,Belgium,Low
+6180,Fashion_1180,Fashion,Germany,Low
+6181,Fashion_1181,Fashion,Ireland,Low
+6182,GROCERIES 1182,Groceries,Sweden,Low
+6183,INSURANCE_1183,Insurance,Ireland,Low
+6184,OnlineGaming_1184,Online Gaming,Ireland,High
+6185,Travel_1185,Travel,Cyprus,Medium
+6186,HEALTH_1186,Health,Poland,Low
+6187,Utilities_1187,Utilities,Belgium,Low
+6188,Restaurants_1188,Restaurants,Ireland,Low
+6189,Utilities_1189,Utilities,Malta,Low
+6190,UTILITIES_1190,Utilities,France,Low
+6191,Fashion_1191,Fashion,Spain,Low
+6192,Electronics_1192,Electronics,Sweden,Medium
+6193,Restaurants_1193,Restaurants,France,Low
+6194,ELECTRONICS_1194,Electronics,Ireland,Medium
+6195,Travel 1195,Travel,Portugal,Medium
+6196,HEALTH_1196,Health,Belgium,Low
+6197,ATM 1197,ATM,Belgium,Medium
+6198,UTILITIES_1198,Utilities,Italy,Low
+6199,CryptoServices_1199,Crypto Services,Portugal,High
+6200,TRAVEL_1200,Travel,Belgium,Medium
+6201,Restaurants_1201,Restaurants,France,Low
+6202,Groceries_1202,Groceries,Germany,Low
+6203,Electronics_1203,Electronics,Sweden,Medium
+6204,RESTAURANTS_1204,Restaurants,Ireland,Low
+6205,UTILITIES_1205,Utilities,Ireland,Low
+6206,Restaurants_1206,Restaurants,Spain,Low
+6207,ATM_1207,ATM,Cyprus,Medium
+6208,Restaurants 1208,Restaurants,Italy,Low
+6209,Health_1209,Health,Italy,Low
+6210,Health 1210,Health,Netherlands,Low
+6211,Groceries_1211,Groceries,Belgium,Low
+6212,RESTAURANTS_1212,Restaurants,France,Low
+6213,FASHION_1213,Fashion,Italy,Low
+6214,Fashion_1214,Fashion,Belgium,Low
+6215,Groceries_1215,Groceries,Malta,Low
+6216,RESTAURANTS 1216,Restaurants,Romania,Low
+6217,UTILITIES_1217,Utilities,Poland,Low
+6218,Groceries_1218,Groceries,Romania,Low
+6219,ELECTRONICS_1219,Electronics,Belgium,Medium
+6220,Utilities_1220,Utilities,Poland,Low
+6221,Utilities_1221,Utilities,Cyprus,Low
+6222,Electronics_1222,Electronics,Romania,Medium
+6223,Restaurants 1223,Restaurants,Romania,Low
+6224,Health_1224,Health,Italy,Low
+6225,ATM_1225,ATM,Netherlands,Medium
+6226,Insurance_1226,Insurance,Spain,Low
+6227,Travel_1227,Travel,Poland,Medium
+6228,Fashion_1228,Fashion,Lithuania,Low
+6229,Groceries 1229,Groceries,Sweden,Low
+6230,Education_1230,Education,Romania,Low
+6231,Groceries_1231,Groceries,Germany,Low
+6232,Restaurants_1232,Restaurants,Belgium,Low
+6233,Utilities_1233,Utilities,Germany,Low
+6234,Groceries_1234,Groceries,Cyprus,Low
+6235,GROCERIES_1235,Groceries,Italy,Low
+6236,Travel_1236,Travel,Malta,Medium
+6237,Restaurants_1237,Restaurants,Lithuania,Low
+6238,RESTAURANTS_1238,Restaurants,Romania,Low
+6239,FASHION_1239,Fashion,Lithuania,Low
+6240,Restaurants_1240,Restaurants,Ireland,Low
+6241,CryptoServices_1241,Crypto Services,France,High
+6242,Utilities_1242,Utilities,Spain,Low
+6243,ATM_1243,ATM,Poland,Medium
+6244,ATM_1244,ATM,Cyprus,Medium
+6245,Fashion_1245,Fashion,Romania,Low
+6246,Restaurants_1246,Restaurants,Cyprus,Low
+6247,Education_1247,Education,Poland,Low
+6248,Insurance_1248,Insurance,Cyprus,Low
+6249,Fashion_1249,Fashion,Malta,Low
+6250,Fashion 1250,Fashion,Ireland,Low
+6251,Education_1251,Education,Poland,Low
+6252,Utilities_1252,Utilities,Romania,Low
+6253,TRAVEL_1253,Travel,France,Medium
+6254,Insurance_1254,Insurance,Sweden,Low
+6255,Utilities_1255,Utilities,Malta,Low
+6256,Utilities_1256,Utilities,Portugal,Low
+6257,Restaurants_1257,Restaurants,Cyprus,Low
+6258,Travel_1258,Travel,Germany,Medium
+6259,RESTAURANTS_1259,Restaurants,Poland,Low
+6260,Fashion_1260,Fashion,Netherlands,Low
+6261,Groceries 1261,Groceries,Ireland,Low
+6262,Travel 1262,Travel,Cyprus,Medium
+6263,Restaurants_1263,Restaurants,Cyprus,Low
+6264,Insurance_1264,Insurance,France,Low
+6265,ONLINEGAMING_1265,Online Gaming,Italy,High
+6266,OnlineGaming_1266,Online Gaming,Poland,High
+6267,CryptoServices_1267,Crypto Services,Sweden,High
+6268,CryptoServices_1268,Crypto Services,Lithuania,High
+6269,Fashion_1269,Fashion,Netherlands,Low
+6270,Groceries_1270,Groceries,Portugal,Low
+6271,Restaurants_1271,Restaurants,Malta,Low
+6272,Restaurants_1272,Restaurants,Belgium,Low
+6273,FASHION_1273,Fashion,Ireland,Low
+6274,FASHION_1274,Fashion,Cyprus,Low
+6275,Insurance_1275,Insurance,Spain,Low
+6276,FASHION_1276,Fashion,Lithuania,Low
+6277,Utilities_1277,Utilities,Lithuania,Low
+6278,FASHION_1278,Fashion,Lithuania,Low
+6279,Groceries 1279,Groceries,France,Low
+6280,Restaurants 1280,Restaurants,Spain,Low
+6281,Health_1281,Health,Portugal,Low
+6282,Restaurants_1282,Restaurants,Portugal,Low
+6283,Groceries_1283,Groceries,Netherlands,Low
+6284,RESTAURANTS_1284,Restaurants,Sweden,Low
+6285,Restaurants_1285,Restaurants,Portugal,Low
+6286,Utilities_1286,Utilities,Malta,Low
+6287,Utilities_1287,Utilities,Portugal,Low
+6288,Utilities_1288,Utilities,Belgium,Low
+6289,FASHION 1289,Fashion,Belgium,Low
+6290,Groceries_1290,Groceries,Portugal,Low
+6291,GROCERIES_1291,Groceries,Belgium,Low
+6292,Travel_1292,Travel,Belgium,Medium
+6293,EDUCATION_1293,Education,Lithuania,Low
+6294,Groceries_1294,Groceries,Italy,Low
+6295,Groceries_1295,Groceries,Netherlands,Low
+6296,GROCERIES 1296,Groceries,Netherlands,Low
+6297,OnlineGaming_1297,Online Gaming,Spain,High
+6298,INSURANCE_1298,Insurance,Belgium,Low
+6299,Travel_1299,Travel,France,Medium
+6300,Groceries_1300,Groceries,Poland,Low
+6301,ATM_1301,ATM,Germany,Medium
+6302,Groceries 1302,Groceries,Belgium,Low
+6303,Groceries_1303,Groceries,Romania,Low
+6304,Groceries_1304,Groceries,Malta,Low
+6305,Health_1305,Health,Netherlands,Low
+6306,Fashion_1306,Fashion,Portugal,Low
+6307,Restaurants_1307,Restaurants,Netherlands,Low
+6308,Fashion_1308,Fashion,Romania,Low
+6309,RESTAURANTS_1309,Restaurants,Spain,Low
+6310,Electronics_1310,Electronics,Cyprus,Medium
+6311,ATM_1311,ATM,Ireland,Medium
+6312,Travel_1312,Travel,Belgium,Medium
+6313,HEALTH_1313,Health,Malta,Low
+6314,Fashion_1314,Fashion,Belgium,Low
+6315,Insurance_1315,Insurance,Italy,Low
+6316,Utilities 1316,Utilities,Spain,Low
+6317,Utilities_1317,Utilities,Netherlands,Low
+6318,Groceries_1318,Groceries,Malta,Low
+6319,Health_1319,Health,Romania,Low
+6320,Travel_1320,Travel,Sweden,Medium
+6321,RESTAURANTS_1321,Restaurants,Italy,Low
+6322,Health_1322,Health,Lithuania,Low
+6323,Health 1323,Health,Germany,Low
+6324,Restaurants_1324,Restaurants,Netherlands,Low
+6325,HEALTH_1325,Health,Netherlands,Low
+6326,Electronics 1326,Electronics,Poland,Medium
+6327,Fashion_1327,Fashion,Belgium,Low
+6328,Restaurants_1328,Restaurants,Netherlands,Low
+6329,ATM_1329,ATM,Netherlands,Medium
+6330,Restaurants_1330,Restaurants,Netherlands,Low
+6331,ATM_1331,ATM,Spain,Medium
+6332,Electronics_1332,Electronics,Sweden,Medium
+6333,Fashion_1333,Fashion,Poland,Low
+6334,ATM_1334,ATM,Spain,Medium
+6335,Education_1335,Education,Netherlands,Low
+6336,Groceries_1336,Groceries,France,Low
+6337,Restaurants_1337,Restaurants,Germany,Low
+6338,RESTAURANTS_1338,Restaurants,Cyprus,Low
+6339,Restaurants 1339,Restaurants,Romania,Low
+6340,Restaurants_1340,Restaurants,Romania,Low
+6341,Fashion 1341,Fashion,France,Low
+6342,Utilities_1342,Utilities,Poland,Low
+6343,FASHION_1343,Fashion,Romania,Low
+6344,Utilities_1344,Utilities,Germany,Low
+6345,Travel_1345,Travel,Ireland,Medium
+6346,Travel_1346,Travel,Malta,Medium
+6347,GROCERIES_1347,Groceries,Portugal,Low
+6348,Restaurants_1348,Restaurants,Poland,Low
+6349,OnlineGaming_1349,Online Gaming,Ireland,High
+6350,Restaurants_1350,Restaurants,France,Low
+6351,Fashion_1351,Fashion,Romania,Low
+6352,FASHION_1352,Fashion,Lithuania,Low
+6353,Restaurants_1353,Restaurants,Spain,Low
+6354,Restaurants_1354,Restaurants,Cyprus,Low
+6355,Travel_1355,Travel,Cyprus,Medium
+6356,Fashion_1356,Fashion,Romania,Low
+6357,Electronics_1357,Electronics,Italy,Medium
+6358,Electronics_1358,Electronics,Cyprus,Medium
+6359,RESTAURANTS 1359,Restaurants,Malta,Low
+6360,Fashion_1360,Fashion,Lithuania,Low
+6361,Insurance_1361,Insurance,Italy,Low
+6362,Restaurants_1362,Restaurants,Lithuania,Low
+6363,Fashion_1363,Fashion,Lithuania,Low
+6364,GROCERIES_1364,Groceries,Malta,Low
+6365,Education_1365,Education,Germany,Low
+6366,INSURANCE_1366,Insurance,Sweden,Low
+6367,Restaurants 1367,Restaurants,Italy,Low
+6368,RESTAURANTS_1368,Restaurants,Germany,Low
+6369,GROCERIES_1369,Groceries,Malta,Low
+6370,Education_1370,Education,Sweden,Low
+6371,CryptoServices_1371,Crypto Services,Spain,High
+6372,Restaurants_1372,Restaurants,Sweden,Low
+6373,Insurance_1373,Insurance,Malta,Low
+6374,Groceries_1374,Groceries,Poland,Low
+6375,Restaurants_1375,Restaurants,Ireland,Low
+6376,ATM_1376,ATM,Sweden,Medium
+6377,CryptoServices_1377,Crypto Services,Italy,High
+6378,RESTAURANTS_1378,Restaurants,Lithuania,Low
+6379,UTILITIES 1379,Utilities,Spain,Low
+6380,Groceries_1380,Groceries,Belgium,Low
+6381,Restaurants_1381,Restaurants,Spain,Low
+6382,Travel_1382,Travel,Poland,Medium
+6383,OnlineGaming_1383,Online Gaming,Sweden,High
+6384,ONLINEGAMING 1384,Online Gaming,France,High
+6385,Electronics 1385,Electronics,Cyprus,Medium
+6386,Restaurants_1386,Restaurants,Romania,Low
+6387,Groceries_1387,Groceries,Belgium,Low
+6388,Utilities_1388,Utilities,Poland,Low
+6389,CryptoServices_1389,Crypto Services,Portugal,High
+6390,UTILITIES_1390,Utilities,Poland,Low
+6391,Electronics_1391,Electronics,Spain,Medium
+6392,Restaurants_1392,Restaurants,Portugal,Low
+6393,Health_1393,Health,Romania,Low
+6394,Health_1394,Health,Poland,Low
+6395,Restaurants_1395,Restaurants,Netherlands,Low
+6396,Utilities_1396,Utilities,France,Low
+6397,Groceries_1397,Groceries,Sweden,Low
+6398,Restaurants 1398,Restaurants,Poland,Low
+6399,Health_1399,Health,Germany,Low
+6400,ATM_1400,ATM,France,Medium
+6401,Groceries_1401,Groceries,Cyprus,Low
+6402,Health_1402,Health,Spain,Low
+6403,RESTAURANTS_1403,Restaurants,Poland,Low
+6404,RESTAURANTS_1404,Restaurants,Cyprus,Low
+6405,Fashion_1405,Fashion,Italy,Low
+6406,Utilities_1406,Utilities,Netherlands,Low
+6407,ELECTRONICS_1407,Electronics,Spain,Medium
+6408,Travel_1408,Travel,Malta,Medium
+6409,Insurance_1409,Insurance,Ireland,Low
+6410,Education_1410,Education,Ireland,Low
+6411,GROCERIES_1411,Groceries,Lithuania,Low
+6412,Utilities_1412,Utilities,Cyprus,Low
+6413,Utilities_1413,Utilities,Netherlands,Low
+6414,Groceries_1414,Groceries,Poland,Low
+6415,Travel_1415,Travel,Cyprus,Medium
+6416,FASHION_1416,Fashion,Portugal,Low
+6417,Restaurants_1417,Restaurants,Ireland,Low
+6418,Utilities_1418,Utilities,Spain,Low
+6419,Utilities 1419,Utilities,Lithuania,Low
+6420,ONLINEGAMING 1420,Online Gaming,Portugal,High
+6421,Groceries_1421,Groceries,Malta,Low
+6422,Health_1422,Health,France,Low
+6423,Education_1423,Education,Sweden,Low
+6424,Restaurants_1424,Restaurants,Malta,Low
+6425,Travel_1425,Travel,Spain,Medium
+6426,Insurance_1426,Insurance,Lithuania,Low
+6427,Health_1427,Health,France,Low
+6428,OnlineGaming_1428,Online Gaming,Sweden,High
+6429,Utilities 1429,Utilities,Malta,Low
+6430,TRAVEL_1430,Travel,Ireland,Medium
+6431,Restaurants_1431,Restaurants,Belgium,Low
+6432,Health 1432,Health,Malta,Low
+6433,Education_1433,Education,Ireland,Low
+6434,Travel_1434,Travel,France,Medium
+6435,Groceries_1435,Groceries,Sweden,Low
+6436,Restaurants 1436,Restaurants,Sweden,Low
+6437,Utilities_1437,Utilities,Poland,Low
+6438,Groceries_1438,Groceries,Germany,Low
+6439,Education_1439,Education,Romania,Low
+6440,Fashion_1440,Fashion,Sweden,Low
+6441,Education_1441,Education,Spain,Low
+6442,ATM_1442,ATM,Sweden,Medium
+6443,INSURANCE_1443,Insurance,Ireland,Low
+6444,Electronics_1444,Electronics,Lithuania,Medium
+6445,ATM_1445,ATM,Spain,Medium
+6446,Groceries_1446,Groceries,Malta,Low
+6447,INSURANCE_1447,Insurance,Belgium,Low
+6448,Fashion_1448,Fashion,France,Low
+6449,Utilities_1449,Utilities,Ireland,Low
+6450,Travel_1450,Travel,France,Medium
+6451,Restaurants_1451,Restaurants,Italy,Low
+6452,Groceries 1452,Groceries,Malta,Low
+6453,ATM_1453,ATM,Poland,Medium
+6454,ATM_1454,ATM,Malta,Medium
+6455,ATM_1455,ATM,Portugal,Medium
+6456,ATM_1456,ATM,France,Medium
+6457,Groceries_1457,Groceries,France,Low
+6458,Restaurants_1458,Restaurants,Netherlands,Low
+6459,OnlineGaming_1459,Online Gaming,Portugal,High
+6460,Groceries_1460,Groceries,Malta,Low
+6461,Electronics_1461,Electronics,France,Medium
+6462,Restaurants_1462,Restaurants,Italy,Low
+6463,Utilities_1463,Utilities,Poland,Low
+6464,Groceries_1464,Groceries,Lithuania,Low
+6465,Health_1465,Health,Spain,Low
+6466,CryptoServices_1466,Crypto Services,Malta,High
+6467,Restaurants_1467,Restaurants,Netherlands,Low
+6468,Electronics_1468,Electronics,Germany,Medium
+6469,Restaurants_1469,Restaurants,Cyprus,Low
+6470,Groceries_1470,Groceries,Malta,Low
+6471,Groceries 1471,Groceries,Netherlands,Low
+6472,Fashion_1472,Fashion,Cyprus,Low
+6473,UTILITIES_1473,Utilities,Ireland,Low
+6474,Restaurants_1474,Restaurants,Romania,Low
+6475,HEALTH_1475,Health,Cyprus,Low
+6476,Restaurants_1476,Restaurants,Cyprus,Low
+6477,Electronics_1477,Electronics,Poland,Medium
+6478,Restaurants_1478,Restaurants,Sweden,Low
+6479,Fashion_1479,Fashion,Germany,Low
+6480,Fashion_1480,Fashion,France,Low
+6481,Utilities_1481,Utilities,Belgium,Low
+6482,RESTAURANTS 1482,Restaurants,Ireland,Low
+6483,Health_1483,Health,Ireland,Low
+6484,Restaurants_1484,Restaurants,Spain,Low
+6485,Health_1485,Health,France,Low
+6486,GROCERIES_1486,Groceries,Sweden,Low
+6487,Restaurants_1487,Restaurants,Malta,Low
+6488,Restaurants_1488,Restaurants,Netherlands,Low
+6489,Restaurants_1489,Restaurants,Cyprus,Low
+6490,Education_1490,Education,Germany,Low
+6491,ATM_1491,ATM,Poland,Medium
+6492,Restaurants_1492,Restaurants,Italy,Low
+6493,Fashion_1493,Fashion,Netherlands,Low
+6494,Health_1494,Health,Ireland,Low
+6495,ATM_1495,ATM,Lithuania,Medium
+6496,Groceries 1496,Groceries,Belgium,Low
+6497,Electronics_1497,Electronics,Germany,Medium
+6498,Groceries 1498,Groceries,Spain,Low
+6499,Utilities_1499,Utilities,Italy,Low
+6500,Travel_1500,Travel,Italy,Medium
+6501,Utilities 1501,Utilities,Portugal,Low
+6502,Electronics_1502,Electronics,Portugal,Medium
+6503,Electronics_1503,Electronics,Italy,Medium
+6504,OnlineGaming_1504,Online Gaming,Spain,High
+6505,OnlineGaming_1505,Online Gaming,Lithuania,High
+6506,Health_1506,Health,Sweden,Low
+6507,Education_1507,Education,Netherlands,Low
+6508,Health_1508,Health,Spain,Low
+6509,FASHION_1509,Fashion,Malta,Low
+6510,Utilities 1510,Utilities,Poland,Low
+6511,Utilities 1511,Utilities,Lithuania,Low
+6512,Utilities_1512,Utilities,Germany,Low
+6513,Restaurants_1513,Restaurants,Poland,Low
+6514,Utilities_1514,Utilities,France,Low
+6515,Electronics_1515,Electronics,Cyprus,Medium
+6516,Fashion 1516,Fashion,Germany,Low
+6517,Groceries_1517,Groceries,Italy,Low
+6518,Utilities_1518,Utilities,Lithuania,Low
+6519,Insurance_1519,Insurance,Sweden,Low
+6520,Restaurants_1520,Restaurants,Spain,Low
+6521,Restaurants_1521,Restaurants,Lithuania,Low
+6522,Health_1522,Health,France,Low
+6523,Groceries_1523,Groceries,Lithuania,Low
+6524,Utilities_1524,Utilities,Sweden,Low
+6525,ATM 1525,ATM,Portugal,Medium
+6526,Groceries 1526,Groceries,Portugal,Low
+6527,CRYPTOSERVICES_1527,Crypto Services,Cyprus,High
+6528,Fashion_1528,Fashion,Italy,Low
+6529,Groceries_1529,Groceries,Malta,Low
+6530,Groceries 1530,Groceries,Portugal,Low
+6531,GROCERIES_1531,Groceries,Sweden,Low
+6532,Groceries_1532,Groceries,Ireland,Low
+6533,Restaurants_1533,Restaurants,France,Low
+6534,RESTAURANTS_1534,Restaurants,Netherlands,Low
+6535,Groceries_1535,Groceries,Poland,Low
+6536,Utilities_1536,Utilities,Cyprus,Low
+6537,Utilities_1537,Utilities,Sweden,Low
+6538,Restaurants_1538,Restaurants,Italy,Low
+6539,Restaurants_1539,Restaurants,Netherlands,Low
+6540,GROCERIES_1540,Groceries,Romania,Low
+6541,Health_1541,Health,Sweden,Low
+6542,ONLINEGAMING_1542,Online Gaming,Germany,High
+6543,Restaurants_1543,Restaurants,Lithuania,Low
+6544,Utilities_1544,Utilities,Germany,Low
+6545,Insurance_1545,Insurance,Portugal,Low
+6546,Travel_1546,Travel,Spain,Medium
+6547,Groceries_1547,Groceries,Cyprus,Low
+6548,Travel_1548,Travel,Germany,Medium
+6549,RESTAURANTS_1549,Restaurants,Italy,Low
+6550,OnlineGaming_1550,Online Gaming,Netherlands,High
+6551,Fashion_1551,Fashion,Italy,Low
+6552,Groceries_1552,Groceries,Ireland,Low
+6553,ELECTRONICS_1553,Electronics,Lithuania,Medium
+6554,Groceries_1554,Groceries,Netherlands,Low
+6555,Groceries_1555,Groceries,Spain,Low
+6556,CryptoServices_1556,Crypto Services,Ireland,High
+6557,Insurance 1557,Insurance,Lithuania,Low
+6558,Electronics_1558,Electronics,Lithuania,Medium
+6559,Travel_1559,Travel,Germany,Medium
+6560,Health_1560,Health,Spain,Low
+6561,Health_1561,Health,Portugal,Low
+6562,Restaurants_1562,Restaurants,Spain,Low
+6563,Restaurants_1563,Restaurants,Ireland,Low
+6564,ELECTRONICS_1564,Electronics,Portugal,Medium
+6565,Fashion_1565,Fashion,Ireland,Low
+6566,ELECTRONICS_1566,Electronics,Belgium,Medium
+6567,Fashion_1567,Fashion,Italy,Low
+6568,Electronics_1568,Electronics,Germany,Medium
+6569,OnlineGaming_1569,Online Gaming,Italy,High
+6570,Groceries_1570,Groceries,Poland,Low
+6571,Fashion_1571,Fashion,France,Low
+6572,Travel 1572,Travel,Sweden,Medium
+6573,ATM_1573,ATM,Poland,Medium
+6574,Travel_1574,Travel,Cyprus,Medium
+6575,Health_1575,Health,Spain,Low
+6576,Electronics_1576,Electronics,Sweden,Medium
+6577,Electronics_1577,Electronics,Germany,Medium
+6578,Groceries_1578,Groceries,Belgium,Low
+6579,Fashion_1579,Fashion,Sweden,Low
+6580,ATM_1580,ATM,Romania,Medium
+6581,RESTAURANTS_1581,Restaurants,Belgium,Low
+6582,Groceries 1582,Groceries,Italy,Low
+6583,GROCERIES_1583,Groceries,Italy,Low
+6584,Groceries_1584,Groceries,Germany,Low
+6585,Health_1585,Health,Spain,Low
+6586,Education 1586,Education,Cyprus,Low
+6587,Fashion_1587,Fashion,Romania,Low
+6588,Restaurants_1588,Restaurants,France,Low
+6589,ONLINEGAMING_1589,Online Gaming,Romania,High
+6590,Restaurants 1590,Restaurants,Spain,Low
+6591,Groceries_1591,Groceries,Germany,Low
+6592,RESTAURANTS_1592,Restaurants,Ireland,Low
+6593,CryptoServices_1593,Crypto Services,Germany,High
+6594,ATM_1594,ATM,Ireland,Medium
+6595,OnlineGaming_1595,Online Gaming,Cyprus,High
+6596,CryptoServices_1596,Crypto Services,Portugal,High
+6597,Electronics_1597,Electronics,France,Medium
+6598,Health_1598,Health,Malta,Low
+6599,Health_1599,Health,Netherlands,Low
+6600,Health_1600,Health,Lithuania,Low
+6601,Utilities_1601,Utilities,Sweden,Low
+6602,Fashion_1602,Fashion,Malta,Low
+6603,Education_1603,Education,Lithuania,Low
+6604,Electronics_1604,Electronics,Cyprus,Medium
+6605,Fashion_1605,Fashion,Ireland,Low
+6606,Fashion_1606,Fashion,Ireland,Low
+6607,Electronics_1607,Electronics,Germany,Medium
+6608,Electronics_1608,Electronics,Ireland,Medium
+6609,Travel_1609,Travel,Spain,Medium
+6610,Utilities_1610,Utilities,Romania,Low
+6611,Restaurants_1611,Restaurants,Sweden,Low
+6612,Insurance 1612,Insurance,Portugal,Low
+6613,Health_1613,Health,Romania,Low
+6614,Groceries_1614,Groceries,Sweden,Low
+6615,Groceries_1615,Groceries,Poland,Low
+6616,GROCERIES_1616,Groceries,Netherlands,Low
+6617,Restaurants_1617,Restaurants,Romania,Low
+6618,Utilities_1618,Utilities,Romania,Low
+6619,OnlineGaming_1619,Online Gaming,Sweden,High
+6620,ELECTRONICS_1620,Electronics,Belgium,Medium
+6621,Fashion_1621,Fashion,Netherlands,Low
+6622,Travel 1622,Travel,Lithuania,Medium
+6623,OnlineGaming_1623,Online Gaming,Italy,High
+6624,Restaurants_1624,Restaurants,Sweden,Low
+6625,Travel_1625,Travel,Lithuania,Medium
+6626,CRYPTOSERVICES_1626,Crypto Services,Sweden,High
+6627,Travel_1627,Travel,Poland,Medium
+6628,Groceries_1628,Groceries,France,Low
+6629,Groceries_1629,Groceries,Netherlands,Low
+6630,TRAVEL 1630,Travel,France,Medium
+6631,GROCERIES_1631,Groceries,Netherlands,Low
+6632,GROCERIES_1632,Groceries,Lithuania,Low
+6633,Travel_1633,Travel,Sweden,Medium
+6634,Restaurants_1634,Restaurants,Italy,Low
+6635,Restaurants_1635,Restaurants,Italy,Low
+6636,ATM_1636,ATM,Spain,Medium
+6637,Electronics_1637,Electronics,Romania,Medium
+6638,CryptoServices_1638,Crypto Services,Malta,High
+6639,Electronics_1639,Electronics,Germany,Medium
+6640,OnlineGaming_1640,Online Gaming,Netherlands,High
+6641,Insurance_1641,Insurance,Ireland,Low
+6642,Travel_1642,Travel,Belgium,Medium
+6643,ATM_1643,ATM,Italy,Medium
+6644,Groceries_1644,Groceries,Spain,Low
+6645,Travel_1645,Travel,Italy,Medium
+6646,Insurance_1646,Insurance,France,Low
+6647,RESTAURANTS_1647,Restaurants,Cyprus,Low
+6648,Groceries_1648,Groceries,Spain,Low
+6649,Restaurants 1649,Restaurants,Malta,Low
+6650,Utilities_1650,Utilities,Poland,Low
+6651,Restaurants_1651,Restaurants,Italy,Low
+6652,ATM_1652,ATM,Poland,Medium
+6653,ATM_1653,ATM,Romania,Medium
+6654,Education 1654,Education,Portugal,Low
+6655,Restaurants_1655,Restaurants,Sweden,Low
+6656,ATM_1656,ATM,Netherlands,Medium
+6657,Utilities 1657,Utilities,Poland,Low
+6658,Electronics_1658,Electronics,Germany,Medium
+6659,Travel 1659,Travel,Belgium,Medium
+6660,Utilities_1660,Utilities,France,Low
+6661,Restaurants_1661,Restaurants,Netherlands,Low
+6662,Groceries_1662,Groceries,France,Low
+6663,Health_1663,Health,France,Low
+6664,Utilities_1664,Utilities,Netherlands,Low
+6665,GROCERIES_1665,Groceries,Malta,Low
+6666,Electronics_1666,Electronics,Portugal,Medium
+6667,CryptoServices_1667,Crypto Services,Netherlands,High
+6668,Insurance_1668,Insurance,Belgium,Low
+6669,Utilities_1669,Utilities,Belgium,Low
+6670,Health_1670,Health,Poland,Low
+6671,OnlineGaming_1671,Online Gaming,France,High
+6672,Utilities_1672,Utilities,Cyprus,Low
+6673,Restaurants 1673,Restaurants,Malta,Low
+6674,Health_1674,Health,Germany,Low
+6675,Travel_1675,Travel,Sweden,Medium
+6676,Health_1676,Health,France,Low
+6677,Travel_1677,Travel,Germany,Medium
+6678,Education_1678,Education,Belgium,Low
+6679,Groceries_1679,Groceries,France,Low
+6680,Restaurants_1680,Restaurants,Spain,Low
+6681,Education 1681,Education,Spain,Low
+6682,Restaurants_1682,Restaurants,Italy,Low
+6683,Travel_1683,Travel,Lithuania,Medium
+6684,Health_1684,Health,Germany,Low
+6685,Restaurants 1685,Restaurants,Lithuania,Low
+6686,Health 1686,Health,Netherlands,Low
+6687,Groceries_1687,Groceries,Poland,Low
+6688,Groceries_1688,Groceries,Poland,Low
+6689,Health 1689,Health,Malta,Low
+6690,Groceries_1690,Groceries,Malta,Low
+6691,Groceries_1691,Groceries,Spain,Low
+6692,FASHION 1692,Fashion,Cyprus,Low
+6693,Electronics_1693,Electronics,Netherlands,Medium
+6694,ONLINEGAMING_1694,Online Gaming,Netherlands,High
+6695,Groceries_1695,Groceries,Sweden,Low
+6696,Restaurants_1696,Restaurants,Lithuania,Low
+6697,Groceries_1697,Groceries,Sweden,Low
+6698,Education_1698,Education,Portugal,Low
+6699,Electronics_1699,Electronics,Ireland,Medium
+6700,Travel_1700,Travel,Netherlands,Medium
+6701,Groceries 1701,Groceries,Italy,Low
+6702,GROCERIES_1702,Groceries,Sweden,Low
+6703,Restaurants_1703,Restaurants,Cyprus,Low
+6704,Fashion_1704,Fashion,Portugal,Low
+6705,Travel_1705,Travel,Ireland,Medium
+6706,Education_1706,Education,Belgium,Low
+6707,EDUCATION_1707,Education,Portugal,Low
+6708,Utilities_1708,Utilities,Belgium,Low
+6709,Utilities_1709,Utilities,Italy,Low
+6710,Fashion_1710,Fashion,Germany,Low
+6711,ATM_1711,ATM,Belgium,Medium
+6712,Travel 1712,Travel,Cyprus,Medium
+6713,Electronics_1713,Electronics,Romania,Medium
+6714,ATM_1714,ATM,Malta,Medium
+6715,Education_1715,Education,Italy,Low
+6716,Groceries_1716,Groceries,Romania,Low
+6717,Utilities_1717,Utilities,Italy,Low
+6718,Travel_1718,Travel,Malta,Medium
+6719,Education_1719,Education,France,Low
+6720,Travel_1720,Travel,Poland,Medium
+6721,Utilities_1721,Utilities,Portugal,Low
+6722,Restaurants_1722,Restaurants,Poland,Low
+6723,Electronics_1723,Electronics,Ireland,Medium
+6724,Insurance_1724,Insurance,Ireland,Low
+6725,FASHION 1725,Fashion,Belgium,Low
+6726,Health 1726,Health,Germany,Low
+6727,Utilities_1727,Utilities,Italy,Low
+6728,Groceries_1728,Groceries,Netherlands,Low
+6729,Electronics_1729,Electronics,Spain,Medium
+6730,Travel_1730,Travel,Belgium,Medium
+6731,Electronics_1731,Electronics,Poland,Medium
+6732,Groceries_1732,Groceries,France,Low
+6733,ONLINEGAMING_1733,Online Gaming,Spain,High
+6734,ATM_1734,ATM,Ireland,Medium
+6735,Groceries_1735,Groceries,Cyprus,Low
+6736,Groceries_1736,Groceries,Romania,Low
+6737,Fashion_1737,Fashion,Ireland,Low
+6738,Groceries_1738,Groceries,Poland,Low
+6739,Restaurants 1739,Restaurants,Belgium,Low
+6740,ATM_1740,ATM,Ireland,Medium
+6741,Fashion_1741,Fashion,Malta,Low
+6742,CryptoServices 1742,Crypto Services,Poland,High
+6743,GROCERIES_1743,Groceries,Italy,Low
+6744,Fashion_1744,Fashion,Belgium,Low
+6745,Restaurants_1745,Restaurants,Poland,Low
+6746,ATM_1746,ATM,Cyprus,Medium
+6747,Utilities_1747,Utilities,Lithuania,Low
+6748,TRAVEL_1748,Travel,Cyprus,Medium
+6749,ELECTRONICS 1749,Electronics,Sweden,Medium
+6750,Electronics_1750,Electronics,Netherlands,Medium
+6751,Restaurants_1751,Restaurants,Spain,Low
+6752,Education_1752,Education,Lithuania,Low
+6753,Restaurants_1753,Restaurants,Portugal,Low
+6754,Restaurants_1754,Restaurants,Lithuania,Low
+6755,Groceries_1755,Groceries,Lithuania,Low
+6756,ONLINEGAMING_1756,Online Gaming,Portugal,High
+6757,Groceries_1757,Groceries,Ireland,Low
+6758,Health_1758,Health,Belgium,Low
+6759,RESTAURANTS_1759,Restaurants,Poland,Low
+6760,Utilities_1760,Utilities,Belgium,Low
+6761,GROCERIES_1761,Groceries,Netherlands,Low
+6762,UTILITIES 1762,Utilities,Cyprus,Low
+6763,Restaurants_1763,Restaurants,Italy,Low
+6764,Groceries_1764,Groceries,Ireland,Low
+6765,Restaurants_1765,Restaurants,Sweden,Low
+6766,GROCERIES_1766,Groceries,Netherlands,Low
+6767,Restaurants_1767,Restaurants,Belgium,Low
+6768,Fashion_1768,Fashion,France,Low
+6769,ELECTRONICS_1769,Electronics,Lithuania,Medium
+6770,Fashion_1770,Fashion,Lithuania,Low
+6771,ATM_1771,ATM,Sweden,Medium
+6772,Groceries_1772,Groceries,Poland,Low
+6773,Restaurants_1773,Restaurants,Poland,Low
+6774,RESTAURANTS_1774,Restaurants,Sweden,Low
+6775,FASHION_1775,Fashion,Cyprus,Low
+6776,HEALTH_1776,Health,Netherlands,Low
+6777,Groceries_1777,Groceries,Belgium,Low
+6778,Groceries_1778,Groceries,Malta,Low
+6779,Education_1779,Education,Netherlands,Low
+6780,Utilities_1780,Utilities,Germany,Low
+6781,Electronics_1781,Electronics,Belgium,Medium
+6782,Travel_1782,Travel,Belgium,Medium
+6783,Restaurants_1783,Restaurants,Cyprus,Low
+6784,Utilities_1784,Utilities,Spain,Low
+6785,Groceries_1785,Groceries,Poland,Low
+6786,Restaurants_1786,Restaurants,Malta,Low
+6787,Restaurants_1787,Restaurants,Portugal,Low
+6788,Restaurants_1788,Restaurants,Sweden,Low
+6789,Travel_1789,Travel,Sweden,Medium
+6790,Utilities_1790,Utilities,Italy,Low
+6791,Utilities 1791,Utilities,Belgium,Low
+6792,GROCERIES_1792,Groceries,Lithuania,Low
+6793,Restaurants_1793,Restaurants,France,Low
+6794,Utilities 1794,Utilities,Malta,Low
+6795,EDUCATION_1795,Education,Germany,Low
+6796,Fashion_1796,Fashion,Netherlands,Low
+6797,Travel_1797,Travel,Sweden,Medium
+6798,Travel_1798,Travel,Romania,Medium
+6799,Utilities_1799,Utilities,Cyprus,Low
+6800,Groceries_1800,Groceries,Cyprus,Low
+6801,Electronics_1801,Electronics,Romania,Medium
+6802,Education_1802,Education,Portugal,Low
+6803,INSURANCE_1803,Insurance,France,Low
+6804,RESTAURANTS_1804,Restaurants,Portugal,Low
+6805,Groceries 1805,Groceries,Spain,Low
+6806,Utilities_1806,Utilities,France,Low
+6807,GROCERIES_1807,Groceries,Lithuania,Low
+6808,Groceries 1808,Groceries,Netherlands,Low
+6809,Fashion_1809,Fashion,France,Low
+6810,Electronics 1810,Electronics,Cyprus,Medium
+6811,ELECTRONICS_1811,Electronics,Cyprus,Medium
+6812,TRAVEL_1812,Travel,Germany,Medium
+6813,ELECTRONICS_1813,Electronics,Spain,Medium
+6814,ATM_1814,ATM,Romania,Medium
+6815,Utilities_1815,Utilities,Romania,Low
+6816,Restaurants_1816,Restaurants,Germany,Low
+6817,Groceries 1817,Groceries,Italy,Low
+6818,ATM_1818,ATM,Belgium,Medium
+6819,Health 1819,Health,Ireland,Low
+6820,Insurance_1820,Insurance,Belgium,Low
+6821,Insurance_1821,Insurance,Ireland,Low
+6822,Restaurants_1822,Restaurants,Portugal,Low
+6823,Groceries_1823,Groceries,Italy,Low
+6824,Restaurants_1824,Restaurants,Romania,Low
+6825,ATM_1825,ATM,Sweden,Medium
+6826,Restaurants_1826,Restaurants,Ireland,Low
+6827,Travel_1827,Travel,Germany,Medium
+6828,RESTAURANTS_1828,Restaurants,Ireland,Low
+6829,Groceries_1829,Groceries,Netherlands,Low
+6830,Utilities 1830,Utilities,Netherlands,Low
+6831,Restaurants_1831,Restaurants,Portugal,Low
+6832,Utilities_1832,Utilities,Lithuania,Low
+6833,ATM_1833,ATM,Cyprus,Medium
+6834,Restaurants_1834,Restaurants,Portugal,Low
+6835,Insurance_1835,Insurance,Romania,Low
+6836,Utilities_1836,Utilities,Germany,Low
+6837,Travel_1837,Travel,Spain,Medium
+6838,ATM_1838,ATM,Portugal,Medium
+6839,Travel_1839,Travel,Malta,Medium
+6840,Fashion_1840,Fashion,Ireland,Low
+6841,ATM_1841,ATM,Poland,Medium
+6842,Insurance_1842,Insurance,Belgium,Low
+6843,Insurance_1843,Insurance,Spain,Low
+6844,Restaurants_1844,Restaurants,Netherlands,Low
+6845,OnlineGaming_1845,Online Gaming,Lithuania,High
+6846,Utilities_1846,Utilities,Italy,Low
+6847,Groceries_1847,Groceries,France,Low
+6848,Restaurants_1848,Restaurants,Portugal,Low
+6849,Groceries_1849,Groceries,Poland,Low
+6850,Electronics_1850,Electronics,Sweden,Medium
+6851,ATM_1851,ATM,France,Medium
+6852,Restaurants_1852,Restaurants,Ireland,Low
+6853,Groceries_1853,Groceries,Netherlands,Low
+6854,ATM_1854,ATM,Cyprus,Medium
+6855,Travel_1855,Travel,Italy,Medium
+6856,OnlineGaming 1856,Online Gaming,Portugal,High
+6857,Restaurants_1857,Restaurants,Germany,Low
+6858,Fashion_1858,Fashion,Poland,Low
+6859,Education_1859,Education,Lithuania,Low
+6860,Fashion_1860,Fashion,Ireland,Low
+6861,OnlineGaming_1861,Online Gaming,Ireland,High
+6862,Restaurants_1862,Restaurants,Romania,Low
+6863,Travel_1863,Travel,Portugal,Medium
+6864,TRAVEL_1864,Travel,Malta,Medium
+6865,Utilities_1865,Utilities,Cyprus,Low
+6866,Restaurants_1866,Restaurants,Cyprus,Low
+6867,Travel_1867,Travel,Lithuania,Medium
+6868,Groceries_1868,Groceries,France,Low
+6869,Education_1869,Education,Germany,Low
+6870,Utilities_1870,Utilities,Malta,Low
+6871,Utilities_1871,Utilities,France,Low
+6872,Travel_1872,Travel,Ireland,Medium
+6873,Utilities_1873,Utilities,Germany,Low
+6874,Utilities_1874,Utilities,Germany,Low
+6875,Health_1875,Health,Cyprus,Low
+6876,Health_1876,Health,Poland,Low
+6877,Utilities_1877,Utilities,Malta,Low
+6878,Travel_1878,Travel,Romania,Medium
+6879,Health_1879,Health,Italy,Low
+6880,ONLINEGAMING_1880,Online Gaming,Spain,High
+6881,Travel_1881,Travel,Portugal,Medium
+6882,Restaurants_1882,Restaurants,Poland,Low
+6883,Electronics 1883,Electronics,Poland,Medium
+6884,Insurance_1884,Insurance,Spain,Low
+6885,Travel_1885,Travel,Germany,Medium
+6886,ATM_1886,ATM,Romania,Medium
+6887,Utilities_1887,Utilities,Germany,Low
+6888,UTILITIES_1888,Utilities,Portugal,Low
+6889,Restaurants_1889,Restaurants,Poland,Low
+6890,Groceries_1890,Groceries,Lithuania,Low
+6891,Fashion_1891,Fashion,Germany,Low
+6892,Groceries_1892,Groceries,Poland,Low
+6893,UTILITIES_1893,Utilities,Malta,Low
+6894,Fashion_1894,Fashion,Malta,Low
+6895,ONLINEGAMING_1895,Online Gaming,France,High
+6896,Insurance_1896,Insurance,Portugal,Low
+6897,OnlineGaming_1897,Online Gaming,Belgium,High
+6898,Fashion_1898,Fashion,Lithuania,Low
+6899,Groceries_1899,Groceries,Romania,Low
+6900,RESTAURANTS_1900,Restaurants,Spain,Low
+6901,FASHION_1901,Fashion,Belgium,Low
+6902,Utilities_1902,Utilities,Cyprus,Low
+6903,HEALTH_1903,Health,Italy,Low
+6904,Utilities_1904,Utilities,Romania,Low
+6905,Groceries_1905,Groceries,Portugal,Low
+6906,Restaurants_1906,Restaurants,Sweden,Low
+6907,Restaurants_1907,Restaurants,Spain,Low
+6908,Groceries_1908,Groceries,Romania,Low
+6909,CryptoServices_1909,Crypto Services,Malta,High
+6910,ATM_1910,ATM,Romania,Medium
+6911,ATM_1911,ATM,Italy,Medium
+6912,CryptoServices_1912,Crypto Services,France,High
+6913,Restaurants_1913,Restaurants,Romania,Low
+6914,Education_1914,Education,France,Low
+6915,Fashion_1915,Fashion,Belgium,Low
+6916,EDUCATION_1916,Education,Netherlands,Low
+6917,OnlineGaming_1917,Online Gaming,Germany,High
+6918,Insurance 1918,Insurance,Ireland,Low
+6919,Electronics_1919,Electronics,Poland,Medium
+6920,Utilities_1920,Utilities,Germany,Low
+6921,Insurance_1921,Insurance,Portugal,Low
+6922,GROCERIES_1922,Groceries,Portugal,Low
+6923,Utilities_1923,Utilities,Sweden,Low
+6924,ATM_1924,ATM,Poland,Medium
+6925,ONLINEGAMING_1925,Online Gaming,Netherlands,High
+6926,Fashion_1926,Fashion,Portugal,Low
+6927,Groceries_1927,Groceries,Ireland,Low
+6928,OnlineGaming 1928,Online Gaming,Belgium,High
+6929,Groceries_1929,Groceries,Belgium,Low
+6930,Fashion_1930,Fashion,France,Low
+6931,RESTAURANTS_1931,Restaurants,Romania,Low
+6932,CryptoServices_1932,Crypto Services,Sweden,High
+6933,Groceries_1933,Groceries,Lithuania,Low
+6934,Utilities_1934,Utilities,Ireland,Low
+6935,Electronics_1935,Electronics,Lithuania,Medium
+6936,Restaurants_1936,Restaurants,Ireland,Low
+6937,Groceries_1937,Groceries,France,Low
+6938,Electronics_1938,Electronics,Italy,Medium
+6939,Groceries_1939,Groceries,Ireland,Low
+6940,GROCERIES_1940,Groceries,Germany,Low
+6941,RESTAURANTS_1941,Restaurants,Germany,Low
+6942,Restaurants_1942,Restaurants,Malta,Low
+6943,FASHION_1943,Fashion,Germany,Low
+6944,OnlineGaming_1944,Online Gaming,Sweden,High
+6945,Health_1945,Health,France,Low
+6946,Groceries_1946,Groceries,Lithuania,Low
+6947,Education_1947,Education,Netherlands,Low
+6948,Groceries 1948,Groceries,Malta,Low
+6949,CryptoServices_1949,Crypto Services,Lithuania,High
+6950,Utilities_1950,Utilities,Ireland,Low
+6951,RESTAURANTS_1951,Restaurants,Sweden,Low
+6952,OnlineGaming_1952,Online Gaming,Lithuania,High
+6953,Groceries_1953,Groceries,Spain,Low
+6954,Groceries_1954,Groceries,Spain,Low
+6955,Travel 1955,Travel,Romania,Medium
+6956,Groceries_1956,Groceries,France,Low
+6957,Electronics_1957,Electronics,Cyprus,Medium
+6958,Restaurants_1958,Restaurants,France,Low
+6959,OnlineGaming_1959,Online Gaming,Netherlands,High
+6960,Groceries_1960,Groceries,Portugal,Low
+6961,Groceries_1961,Groceries,France,Low
+6962,Groceries_1962,Groceries,Spain,Low
+6963,Restaurants_1963,Restaurants,Cyprus,Low
+6964,Health_1964,Health,Italy,Low
+6965,OnlineGaming_1965,Online Gaming,Lithuania,High
+6966,Restaurants_1966,Restaurants,Romania,Low
+6967,Utilities_1967,Utilities,Ireland,Low
+6968,Restaurants_1968,Restaurants,France,Low
+6969,Restaurants_1969,Restaurants,Lithuania,Low
+6970,Restaurants_1970,Restaurants,Italy,Low
+6971,Fashion 1971,Fashion,Belgium,Low
+6972,GROCERIES_1972,Groceries,Cyprus,Low
+6973,Utilities_1973,Utilities,Malta,Low
+6974,Fashion_1974,Fashion,Portugal,Low
+6975,Insurance_1975,Insurance,France,Low
+6976,Education_1976,Education,Cyprus,Low
+6977,Health_1977,Health,Malta,Low
+6978,Utilities_1978,Utilities,Sweden,Low
+6979,ATM_1979,ATM,Sweden,Medium
+6980,Restaurants_1980,Restaurants,France,Low
+6981,ONLINEGAMING_1981,Online Gaming,Cyprus,High
+6982,CryptoServices_1982,Crypto Services,Sweden,High
+6983,Groceries_1983,Groceries,Sweden,Low
+6984,Restaurants_1984,Restaurants,Poland,Low
+6985,Travel_1985,Travel,Romania,Medium
+6986,ATM_1986,ATM,Cyprus,Medium
+6987,UTILITIES_1987,Utilities,Ireland,Low
+6988,ELECTRONICS_1988,Electronics,Poland,Medium
+6989,Groceries_1989,Groceries,Portugal,Low
+6990,ATM_1990,ATM,Spain,Medium
+6991,Restaurants_1991,Restaurants,Italy,Low
+6992,Restaurants_1992,Restaurants,Sweden,Low
+6993,Restaurants_1993,Restaurants,Netherlands,Low
+6994,ONLINEGAMING_1994,Online Gaming,Lithuania,High
+6995,ONLINEGAMING_1995,Online Gaming,Sweden,High
+6996,Fashion_1996,Fashion,Romania,Low
+6997,Fashion 1997,Fashion,Lithuania,Low
+6998,Travel_1998,Travel,Spain,Medium
+6999,Restaurants_1999,Restaurants,Romania,Low
+7000,Restaurants_2000,Restaurants,Lithuania,Low
+7001,Groceries_2001,Groceries,France,Low
+7002,RESTAURANTS_2002,Restaurants,Italy,Low
+7003,ATM_2003,ATM,Romania,Medium
+7004,Health_2004,Health,Ireland,Low
+7005,Groceries_2005,Groceries,Germany,Low
+7006,Fashion_2006,Fashion,Malta,Low
+7007,Electronics_2007,Electronics,Italy,Medium
+7008,Fashion 2008,Fashion,Germany,Low
+7009,Groceries_2009,Groceries,Spain,Low
+7010,Travel_2010,Travel,Sweden,Medium
+7011,Restaurants_2011,Restaurants,Ireland,Low
+7012,Travel_2012,Travel,Portugal,Medium
+7013,INSURANCE_2013,Insurance,Italy,Low
+7014,Groceries_2014,Groceries,Spain,Low
+7015,Restaurants_2015,Restaurants,Lithuania,Low
+7016,Groceries_2016,Groceries,Sweden,Low
+7017,Groceries_2017,Groceries,Ireland,Low
+7018,ATM_2018,ATM,Lithuania,Medium
+7019,Groceries_2019,Groceries,Cyprus,Low
+7020,ATM_2020,ATM,Romania,Medium
+7021,Restaurants_2021,Restaurants,Italy,Low
+7022,UTILITIES_2022,Utilities,Belgium,Low
+7023,Insurance_2023,Insurance,France,Low
+7024,Fashion_2024,Fashion,Italy,Low
+7025,Education_2025,Education,Poland,Low
+7026,Electronics_2026,Electronics,Spain,Medium
+7027,INSURANCE_2027,Insurance,Belgium,Low
+7028,RESTAURANTS_2028,Restaurants,France,Low
+7029,Travel_2029,Travel,Italy,Medium
+7030,Fashion_2030,Fashion,Cyprus,Low
+7031,Health_2031,Health,Ireland,Low
+7032,UTILITIES_2032,Utilities,Cyprus,Low
+7033,Groceries_2033,Groceries,Italy,Low
+7034,Restaurants_2034,Restaurants,Ireland,Low
+7035,FASHION_2035,Fashion,Romania,Low
+7036,GROCERIES_2036,Groceries,Netherlands,Low
+7037,Utilities 2037,Utilities,Portugal,Low
+7038,Restaurants_2038,Restaurants,Poland,Low
+7039,Travel_2039,Travel,Lithuania,Medium
+7040,Fashion_2040,Fashion,Lithuania,Low
+7041,Utilities_2041,Utilities,Cyprus,Low
+7042,Groceries_2042,Groceries,Portugal,Low
+7043,UTILITIES_2043,Utilities,Sweden,Low
+7044,Utilities_2044,Utilities,Lithuania,Low
+7045,Utilities_2045,Utilities,Malta,Low
+7046,Groceries 2046,Groceries,Romania,Low
+7047,Utilities_2047,Utilities,Spain,Low
+7048,ELECTRONICS_2048,Electronics,Poland,Medium
+7049,ATM_2049,ATM,Germany,Medium
+7050,Groceries_2050,Groceries,Poland,Low
+7051,Restaurants_2051,Restaurants,France,Low
+7052,Electronics_2052,Electronics,Belgium,Medium
+7053,Health_2053,Health,Romania,Low
+7054,RESTAURANTS_2054,Restaurants,Sweden,Low
+7055,Health_2055,Health,Portugal,Low
+7056,Groceries_2056,Groceries,Cyprus,Low
+7057,Travel_2057,Travel,Ireland,Medium
+7058,Utilities_2058,Utilities,Netherlands,Low
+7059,Utilities_2059,Utilities,Netherlands,Low
+7060,Utilities_2060,Utilities,Malta,Low
+7061,Fashion_2061,Fashion,France,Low
+7062,Travel 2062,Travel,Ireland,Medium
+7063,Groceries_2063,Groceries,Romania,Low
+7064,Restaurants_2064,Restaurants,Ireland,Low
+7065,Electronics_2065,Electronics,Belgium,Medium
+7066,Travel_2066,Travel,Romania,Medium
+7067,Groceries_2067,Groceries,Cyprus,Low
+7068,Groceries_2068,Groceries,Portugal,Low
+7069,CryptoServices_2069,Crypto Services,Ireland,High
+7070,Restaurants_2070,Restaurants,Netherlands,Low
+7071,Travel_2071,Travel,Germany,Medium
+7072,Groceries_2072,Groceries,Cyprus,Low
+7073,Utilities_2073,Utilities,Lithuania,Low
+7074,FASHION_2074,Fashion,Lithuania,Low
+7075,GROCERIES_2075,Groceries,Germany,Low
+7076,Fashion 2076,Fashion,Cyprus,Low
+7077,FASHION_2077,Fashion,Romania,Low
+7078,Utilities_2078,Utilities,Malta,Low
+7079,OnlineGaming_2079,Online Gaming,Lithuania,High
+7080,Health 2080,Health,Malta,Low
+7081,Utilities_2081,Utilities,Cyprus,Low
+7082,Health_2082,Health,Ireland,Low
+7083,Groceries_2083,Groceries,Germany,Low
+7084,UTILITIES_2084,Utilities,Italy,Low
+7085,Education_2085,Education,Romania,Low
+7086,RESTAURANTS_2086,Restaurants,Portugal,Low
+7087,Fashion 2087,Fashion,Malta,Low
+7088,OnlineGaming_2088,Online Gaming,France,High
+7089,Utilities_2089,Utilities,France,Low
+7090,Utilities_2090,Utilities,Italy,Low
+7091,Utilities_2091,Utilities,France,Low
+7092,ATM_2092,ATM,Ireland,Medium
+7093,GROCERIES_2093,Groceries,Poland,Low
+7094,Groceries 2094,Groceries,Cyprus,Low
+7095,ATM_2095,ATM,Italy,Medium
+7096,Health_2096,Health,Italy,Low
+7097,ATM_2097,ATM,Portugal,Medium
+7098,Insurance_2098,Insurance,Spain,Low
+7099,Groceries_2099,Groceries,Cyprus,Low
+7100,UTILITIES_2100,Utilities,Lithuania,Low
+7101,Restaurants_2101,Restaurants,France,Low
+7102,Health_2102,Health,France,Low
+7103,FASHION_2103,Fashion,Spain,Low
+7104,Restaurants_2104,Restaurants,Italy,Low
+7105,FASHION_2105,Fashion,Belgium,Low
+7106,Fashion_2106,Fashion,Lithuania,Low
+7107,Health_2107,Health,Belgium,Low
+7108,OnlineGaming_2108,Online Gaming,Sweden,High
+7109,Travel_2109,Travel,Poland,Medium
+7110,Groceries_2110,Groceries,Lithuania,Low
+7111,Groceries_2111,Groceries,Poland,Low
+7112,Travel_2112,Travel,Spain,Medium
+7113,Education_2113,Education,Romania,Low
+7114,Restaurants_2114,Restaurants,Ireland,Low
+7115,Fashion_2115,Fashion,Romania,Low
+7116,Groceries_2116,Groceries,Cyprus,Low
+7117,GROCERIES_2117,Groceries,Netherlands,Low
+7118,ATM_2118,ATM,Italy,Medium
+7119,Travel_2119,Travel,Ireland,Medium
+7120,Electronics_2120,Electronics,Lithuania,Medium
+7121,GROCERIES_2121,Groceries,Cyprus,Low
+7122,RESTAURANTS_2122,Restaurants,Italy,Low
+7123,RESTAURANTS_2123,Restaurants,Cyprus,Low
+7124,ATM 2124,ATM,Sweden,Medium
+7125,Groceries_2125,Groceries,Italy,Low
+7126,CryptoServices 2126,Crypto Services,Romania,High
+7127,RESTAURANTS_2127,Restaurants,Ireland,Low
+7128,Groceries_2128,Groceries,Lithuania,Low
+7129,Restaurants_2129,Restaurants,Romania,Low
+7130,Groceries_2130,Groceries,Poland,Low
+7131,Electronics_2131,Electronics,Malta,Medium
+7132,CRYPTOSERVICES_2132,Crypto Services,Ireland,High
+7133,Insurance_2133,Insurance,Belgium,Low
+7134,RESTAURANTS_2134,Restaurants,Belgium,Low
+7135,OnlineGaming_2135,Online Gaming,Cyprus,High
+7136,Electronics_2136,Electronics,Italy,Medium
+7137,ELECTRONICS_2137,Electronics,Romania,Medium
+7138,Restaurants 2138,Restaurants,Malta,Low
+7139,Health_2139,Health,Poland,Low
+7140,Utilities_2140,Utilities,Italy,Low
+7141,ATM_2141,ATM,France,Medium
+7142,Fashion_2142,Fashion,Romania,Low
+7143,Utilities_2143,Utilities,Ireland,Low
+7144,Restaurants 2144,Restaurants,Ireland,Low
+7145,Utilities_2145,Utilities,Portugal,Low
+7146,Travel 2146,Travel,Spain,Medium
+7147,Groceries_2147,Groceries,Italy,Low
+7148,OnlineGaming_2148,Online Gaming,Romania,High
+7149,UTILITIES_2149,Utilities,France,Low
+7150,Groceries_2150,Groceries,Ireland,Low
+7151,Groceries 2151,Groceries,Malta,Low
+7152,GROCERIES_2152,Groceries,Italy,Low
+7153,Fashion_2153,Fashion,Romania,Low
+7154,Travel_2154,Travel,Germany,Medium
+7155,Electronics_2155,Electronics,Portugal,Medium
+7156,Groceries_2156,Groceries,Portugal,Low
+7157,Groceries 2157,Groceries,Italy,Low
+7158,Utilities_2158,Utilities,Spain,Low
+7159,OnlineGaming_2159,Online Gaming,Malta,High
+7160,TRAVEL_2160,Travel,Malta,Medium
+7161,Groceries 2161,Groceries,Portugal,Low
+7162,Travel_2162,Travel,Belgium,Medium
+7163,RESTAURANTS_2163,Restaurants,Ireland,Low
+7164,Groceries_2164,Groceries,France,Low
+7165,Fashion_2165,Fashion,Malta,Low
+7166,Groceries_2166,Groceries,Belgium,Low
+7167,Health_2167,Health,Cyprus,Low
+7168,Health_2168,Health,Italy,Low
+7169,UTILITIES 2169,Utilities,France,Low
+7170,Groceries_2170,Groceries,Romania,Low
+7171,Insurance 2171,Insurance,Portugal,Low
+7172,ONLINEGAMING_2172,Online Gaming,Portugal,High
+7173,Fashion_2173,Fashion,France,Low
+7174,Restaurants_2174,Restaurants,France,Low
+7175,Travel_2175,Travel,Italy,Medium
+7176,EDUCATION_2176,Education,Netherlands,Low
+7177,Fashion_2177,Fashion,Germany,Low
+7178,Restaurants_2178,Restaurants,Belgium,Low
+7179,Restaurants_2179,Restaurants,Lithuania,Low
+7180,Groceries_2180,Groceries,Ireland,Low
+7181,Groceries_2181,Groceries,Ireland,Low
+7182,OnlineGaming_2182,Online Gaming,Netherlands,High
+7183,Insurance_2183,Insurance,Malta,Low
+7184,Electronics_2184,Electronics,Ireland,Medium
+7185,Groceries_2185,Groceries,Poland,Low
+7186,TRAVEL 2186,Travel,Belgium,Medium
+7187,OnlineGaming_2187,Online Gaming,Ireland,High
+7188,Fashion_2188,Fashion,Cyprus,Low
+7189,ATM_2189,ATM,Malta,Medium
+7190,FASHION_2190,Fashion,Portugal,Low
+7191,Restaurants_2191,Restaurants,Sweden,Low
+7192,Restaurants_2192,Restaurants,Germany,Low
+7193,CryptoServices_2193,Crypto Services,Lithuania,High
+7194,Fashion_2194,Fashion,Romania,Low
+7195,Restaurants_2195,Restaurants,Germany,Low
+7196,Utilities_2196,Utilities,Belgium,Low
+7197,Restaurants_2197,Restaurants,Malta,Low
+7198,Electronics_2198,Electronics,Cyprus,Medium
+7199,Electronics_2199,Electronics,Italy,Medium
+7200,GROCERIES_2200,Groceries,Poland,Low
+7201,Insurance_2201,Insurance,Lithuania,Low
+7202,Utilities_2202,Utilities,Ireland,Low
+7203,Groceries_2203,Groceries,Portugal,Low
+7204,ATM_2204,ATM,Romania,Medium
+7205,Groceries_2205,Groceries,Spain,Low
+7206,Restaurants_2206,Restaurants,Malta,Low
+7207,ATM_2207,ATM,Belgium,Medium
+7208,EDUCATION_2208,Education,Netherlands,Low
+7209,GROCERIES 2209,Groceries,Belgium,Low
+7210,CryptoServices_2210,Crypto Services,Netherlands,High
+7211,Groceries_2211,Groceries,Cyprus,Low
+7212,Utilities_2212,Utilities,Romania,Low
+7213,UTILITIES_2213,Utilities,France,Low
+7214,UTILITIES_2214,Utilities,Germany,Low
+7215,GROCERIES_2215,Groceries,Belgium,Low
+7216,Groceries_2216,Groceries,Belgium,Low
+7217,Utilities_2217,Utilities,Netherlands,Low
+7218,Utilities 2218,Utilities,Spain,Low
+7219,EDUCATION_2219,Education,Lithuania,Low
+7220,Health_2220,Health,Italy,Low
+7221,ATM_2221,ATM,Portugal,Medium
+7222,OnlineGaming_2222,Online Gaming,Germany,High
+7223,FASHION 2223,Fashion,Germany,Low
+7224,Groceries_2224,Groceries,Poland,Low
+7225,Utilities_2225,Utilities,Poland,Low
+7226,GROCERIES_2226,Groceries,Belgium,Low
+7227,Groceries_2227,Groceries,Belgium,Low
+7228,Groceries_2228,Groceries,Belgium,Low
+7229,Electronics_2229,Electronics,Spain,Medium
+7230,Electronics_2230,Electronics,Lithuania,Medium
+7231,Groceries_2231,Groceries,Ireland,Low
+7232,ATM_2232,ATM,Malta,Medium
+7233,Utilities_2233,Utilities,Lithuania,Low
+7234,CryptoServices_2234,Crypto Services,Cyprus,High
+7235,Utilities_2235,Utilities,Ireland,Low
+7236,RESTAURANTS_2236,Restaurants,Malta,Low
+7237,Restaurants_2237,Restaurants,Portugal,Low
+7238,Groceries_2238,Groceries,France,Low
+7239,Restaurants_2239,Restaurants,Netherlands,Low
+7240,ATM_2240,ATM,Ireland,Medium
+7241,Health_2241,Health,Netherlands,Low
+7242,GROCERIES_2242,Groceries,France,Low
+7243,Restaurants_2243,Restaurants,Romania,Low
+7244,ATM_2244,ATM,Belgium,Medium
+7245,Groceries_2245,Groceries,France,Low
+7246,Groceries_2246,Groceries,Spain,Low
+7247,Groceries_2247,Groceries,Lithuania,Low
+7248,Fashion_2248,Fashion,Portugal,Low
+7249,Electronics_2249,Electronics,Cyprus,Medium
+7250,Fashion_2250,Fashion,France,Low
+7251,CryptoServices_2251,Crypto Services,France,High
+7252,Fashion_2252,Fashion,Lithuania,Low
+7253,Electronics_2253,Electronics,Spain,Medium
+7254,Groceries 2254,Groceries,Portugal,Low
+7255,ATM_2255,ATM,France,Medium
+7256,GROCERIES 2256,Groceries,Malta,Low
+7257,Travel_2257,Travel,Cyprus,Medium
+7258,Groceries_2258,Groceries,Poland,Low
+7259,Insurance_2259,Insurance,Portugal,Low
+7260,Fashion_2260,Fashion,Belgium,Low
+7261,ONLINEGAMING_2261,Online Gaming,Malta,High
+7262,OnlineGaming 2262,Online Gaming,Ireland,High
+7263,Groceries_2263,Groceries,Lithuania,Low
+7264,GROCERIES_2264,Groceries,Sweden,Low
+7265,OnlineGaming_2265,Online Gaming,Sweden,High
+7266,Health_2266,Health,Germany,Low
+7267,Groceries_2267,Groceries,Sweden,Low
+7268,Electronics_2268,Electronics,France,Medium
+7269,Fashion_2269,Fashion,Ireland,Low
+7270,Restaurants_2270,Restaurants,Poland,Low
+7271,INSURANCE_2271,Insurance,France,Low
+7272,Electronics_2272,Electronics,Romania,Medium
+7273,Restaurants_2273,Restaurants,Portugal,Low
+7274,Utilities_2274,Utilities,Cyprus,Low
+7275,Groceries_2275,Groceries,Poland,Low
+7276,Utilities_2276,Utilities,Germany,Low
+7277,Fashion_2277,Fashion,Italy,Low
+7278,GROCERIES_2278,Groceries,Sweden,Low
+7279,HEALTH_2279,Health,Spain,Low
+7280,ATM_2280,ATM,Germany,Medium
+7281,Groceries_2281,Groceries,Romania,Low
+7282,Health_2282,Health,Ireland,Low
+7283,Insurance_2283,Insurance,Ireland,Low
+7284,Insurance_2284,Insurance,Italy,Low
+7285,Health_2285,Health,Italy,Low
+7286,TRAVEL_2286,Travel,Lithuania,Medium
+7287,Restaurants_2287,Restaurants,Malta,Low
+7288,Electronics_2288,Electronics,Ireland,Medium
+7289,Utilities 2289,Utilities,Belgium,Low
+7290,ATM_2290,ATM,Ireland,Medium
+7291,Groceries 2291,Groceries,France,Low
+7292,Travel_2292,Travel,France,Medium
+7293,Health_2293,Health,Spain,Low
+7294,UTILITIES_2294,Utilities,Ireland,Low
+7295,Fashion_2295,Fashion,Belgium,Low
+7296,GROCERIES_2296,Groceries,Ireland,Low
+7297,Groceries_2297,Groceries,Cyprus,Low
+7298,GROCERIES_2298,Groceries,Cyprus,Low
+7299,TRAVEL 2299,Travel,Italy,Medium
+7300,ATM_2300,ATM,Ireland,Medium
+7301,Groceries_2301,Groceries,Ireland,Low
+7302,Fashion_2302,Fashion,Lithuania,Low
+7303,Restaurants_2303,Restaurants,Portugal,Low
+7304,Health_2304,Health,Portugal,Low
+7305,Education_2305,Education,Poland,Low
+7306,Utilities_2306,Utilities,Netherlands,Low
+7307,Groceries_2307,Groceries,Italy,Low
+7308,ATM_2308,ATM,Portugal,Medium
+7309,CryptoServices_2309,Crypto Services,Ireland,High
+7310,Groceries_2310,Groceries,Cyprus,Low
+7311,ONLINEGAMING_2311,Online Gaming,Belgium,High
+7312,CryptoServices_2312,Crypto Services,Sweden,High
+7313,Health_2313,Health,Germany,Low
+7314,Groceries_2314,Groceries,Portugal,Low
+7315,Groceries_2315,Groceries,Belgium,Low
+7316,Fashion_2316,Fashion,Sweden,Low
+7317,Utilities_2317,Utilities,Netherlands,Low
+7318,Travel_2318,Travel,Cyprus,Medium
+7319,Education_2319,Education,Sweden,Low
+7320,Groceries_2320,Groceries,France,Low
+7321,Education_2321,Education,France,Low
+7322,Fashion_2322,Fashion,Belgium,Low
+7323,Utilities_2323,Utilities,Lithuania,Low
+7324,Groceries_2324,Groceries,Poland,Low
+7325,Groceries_2325,Groceries,Belgium,Low
+7326,Electronics_2326,Electronics,Belgium,Medium
+7327,Restaurants_2327,Restaurants,Italy,Low
+7328,Travel_2328,Travel,Cyprus,Medium
+7329,Fashion_2329,Fashion,Malta,Low
+7330,Restaurants_2330,Restaurants,Portugal,Low
+7331,Groceries_2331,Groceries,Sweden,Low
+7332,Fashion_2332,Fashion,Italy,Low
+7333,Utilities_2333,Utilities,France,Low
+7334,Travel_2334,Travel,Cyprus,Medium
+7335,Travel_2335,Travel,Ireland,Medium
+7336,Electronics_2336,Electronics,Spain,Medium
+7337,TRAVEL_2337,Travel,Poland,Medium
+7338,Groceries_2338,Groceries,Belgium,Low
+7339,ELECTRONICS_2339,Electronics,Netherlands,Medium
+7340,OnlineGaming_2340,Online Gaming,Netherlands,High
+7341,Insurance_2341,Insurance,Malta,Low
+7342,Fashion_2342,Fashion,Ireland,Low
+7343,Electronics_2343,Electronics,Belgium,Medium
+7344,GROCERIES_2344,Groceries,Belgium,Low
+7345,Restaurants_2345,Restaurants,France,Low
+7346,Travel_2346,Travel,Netherlands,Medium
+7347,Groceries_2347,Groceries,Italy,Low
+7348,RESTAURANTS_2348,Restaurants,Lithuania,Low
+7349,Groceries 2349,Groceries,Poland,Low
+7350,Restaurants_2350,Restaurants,France,Low
+7351,CryptoServices_2351,Crypto Services,Spain,High
+7352,GROCERIES_2352,Groceries,Portugal,Low
+7353,Electronics_2353,Electronics,Romania,Medium
+7354,Fashion_2354,Fashion,Poland,Low
+7355,Groceries_2355,Groceries,Malta,Low
+7356,Fashion 2356,Fashion,Belgium,Low
+7357,ATM 2357,ATM,Italy,Medium
+7358,Fashion 2358,Fashion,Cyprus,Low
+7359,ATM_2359,ATM,Lithuania,Medium
+7360,Health_2360,Health,Belgium,Low
+7361,Restaurants_2361,Restaurants,Portugal,Low
+7362,ATM_2362,ATM,Cyprus,Medium
+7363,Utilities_2363,Utilities,Italy,Low
+7364,ATM 2364,ATM,Cyprus,Medium
+7365,Electronics_2365,Electronics,Cyprus,Medium
+7366,Insurance_2366,Insurance,Romania,Low
+7367,ATM_2367,ATM,Italy,Medium
+7368,Groceries_2368,Groceries,Poland,Low
+7369,Groceries_2369,Groceries,Romania,Low
+7370,ATM_2370,ATM,Cyprus,Medium
+7371,ATM_2371,ATM,Portugal,Medium
+7372,Health_2372,Health,Malta,Low
+7373,Insurance_2373,Insurance,Germany,Low
+7374,Travel_2374,Travel,Lithuania,Medium
+7375,Restaurants_2375,Restaurants,Sweden,Low
+7376,Electronics_2376,Electronics,Germany,Medium
+7377,Education_2377,Education,Italy,Low
+7378,ELECTRONICS_2378,Electronics,Belgium,Medium
+7379,Groceries_2379,Groceries,France,Low
+7380,Groceries_2380,Groceries,France,Low
+7381,Health_2381,Health,France,Low
+7382,Fashion_2382,Fashion,Ireland,Low
+7383,Fashion_2383,Fashion,France,Low
+7384,Restaurants_2384,Restaurants,Lithuania,Low
+7385,Fashion_2385,Fashion,Ireland,Low
+7386,Utilities_2386,Utilities,Ireland,Low
+7387,Travel_2387,Travel,Netherlands,Medium
+7388,Fashion_2388,Fashion,Spain,Low
+7389,Restaurants_2389,Restaurants,Cyprus,Low
+7390,Fashion_2390,Fashion,Portugal,Low
+7391,Fashion_2391,Fashion,Lithuania,Low
+7392,ATM_2392,ATM,Italy,Medium
+7393,Fashion_2393,Fashion,Germany,Low
+7394,Electronics_2394,Electronics,Italy,Medium
+7395,Groceries 2395,Groceries,Ireland,Low
+7396,Insurance_2396,Insurance,Belgium,Low
+7397,Groceries_2397,Groceries,Germany,Low
+7398,HEALTH_2398,Health,Romania,Low
+7399,RESTAURANTS_2399,Restaurants,France,Low
+7400,Utilities_2400,Utilities,Romania,Low
+7401,Education_2401,Education,Malta,Low
+7402,ONLINEGAMING_2402,Online Gaming,Cyprus,High
+7403,Groceries_2403,Groceries,Spain,Low
+7404,Insurance_2404,Insurance,Cyprus,Low
+7405,Groceries_2405,Groceries,Sweden,Low
+7406,Insurance 2406,Insurance,Italy,Low
+7407,Health_2407,Health,Romania,Low
+7408,Travel_2408,Travel,Romania,Medium
+7409,OnlineGaming_2409,Online Gaming,Poland,High
+7410,Restaurants_2410,Restaurants,Spain,Low
+7411,Restaurants_2411,Restaurants,Sweden,Low
+7412,Groceries_2412,Groceries,Ireland,Low
+7413,Education_2413,Education,Netherlands,Low
+7414,Travel_2414,Travel,Germany,Medium
+7415,CryptoServices_2415,Crypto Services,Netherlands,High
+7416,Groceries_2416,Groceries,Poland,Low
+7417,HEALTH_2417,Health,Sweden,Low
+7418,Groceries_2418,Groceries,Netherlands,Low
+7419,Groceries_2419,Groceries,Portugal,Low
+7420,Restaurants_2420,Restaurants,France,Low
+7421,Health_2421,Health,Cyprus,Low
+7422,Insurance_2422,Insurance,Lithuania,Low
+7423,CryptoServices_2423,Crypto Services,Italy,High
+7424,CRYPTOSERVICES_2424,Crypto Services,Germany,High
+7425,Utilities_2425,Utilities,Spain,Low
+7426,INSURANCE 2426,Insurance,Lithuania,Low
+7427,TRAVEL_2427,Travel,France,Medium
+7428,ATM_2428,ATM,Netherlands,Medium
+7429,CryptoServices_2429,Crypto Services,Poland,High
+7430,Groceries_2430,Groceries,France,Low
+7431,Groceries_2431,Groceries,France,Low
+7432,Utilities_2432,Utilities,Germany,Low
+7433,Electronics_2433,Electronics,Poland,Medium
+7434,Fashion_2434,Fashion,Poland,Low
+7435,Travel_2435,Travel,Spain,Medium
+7436,Restaurants_2436,Restaurants,Belgium,Low
+7437,Groceries 2437,Groceries,Cyprus,Low
+7438,Health_2438,Health,Poland,Low
+7439,ATM_2439,ATM,Poland,Medium
+7440,Health_2440,Health,Netherlands,Low
+7441,Restaurants_2441,Restaurants,Portugal,Low
+7442,Education_2442,Education,France,Low
+7443,Fashion_2443,Fashion,Ireland,Low
+7444,Fashion_2444,Fashion,Cyprus,Low
+7445,Electronics_2445,Electronics,Malta,Medium
+7446,ATM_2446,ATM,France,Medium
+7447,Groceries_2447,Groceries,Belgium,Low
+7448,Restaurants_2448,Restaurants,France,Low
+7449,Groceries_2449,Groceries,Cyprus,Low
+7450,CryptoServices_2450,Crypto Services,Portugal,High
+7451,HEALTH_2451,Health,Romania,Low
+7452,FASHION_2452,Fashion,Ireland,Low
+7453,Groceries_2453,Groceries,Sweden,Low
+7454,Health_2454,Health,Malta,Low
+7455,Electronics_2455,Electronics,Portugal,Medium
+7456,Fashion_2456,Fashion,Germany,Low
+7457,Electronics_2457,Electronics,Cyprus,Medium
+7458,Insurance_2458,Insurance,Netherlands,Low
+7459,Education_2459,Education,Sweden,Low
+7460,Groceries_2460,Groceries,Spain,Low
+7461,Fashion 2461,Fashion,Netherlands,Low
+7462,Groceries_2462,Groceries,Germany,Low
+7463,Travel_2463,Travel,Sweden,Medium
+7464,GROCERIES_2464,Groceries,France,Low
+7465,Groceries_2465,Groceries,Italy,Low
+7466,ATM_2466,ATM,Spain,Medium
+7467,ELECTRONICS_2467,Electronics,France,Medium
+7468,Fashion_2468,Fashion,Italy,Low
+7469,GROCERIES_2469,Groceries,Germany,Low
+7470,ATM_2470,ATM,France,Medium
+7471,ATM_2471,ATM,Netherlands,Medium
+7472,Groceries_2472,Groceries,Sweden,Low
+7473,Restaurants_2473,Restaurants,Belgium,Low
+7474,Health_2474,Health,Lithuania,Low
+7475,ELECTRONICS_2475,Electronics,Sweden,Medium
+7476,OnlineGaming_2476,Online Gaming,Sweden,High
+7477,Fashion_2477,Fashion,Germany,Low
+7478,Travel_2478,Travel,France,Medium
+7479,Health_2479,Health,Italy,Low
+7480,Utilities_2480,Utilities,Romania,Low
+7481,Restaurants 2481,Restaurants,Malta,Low
+7482,Health_2482,Health,Poland,Low
+7483,Utilities_2483,Utilities,Sweden,Low
+7484,TRAVEL_2484,Travel,Netherlands,Medium
+7485,Groceries_2485,Groceries,Cyprus,Low
+7486,ATM_2486,ATM,Portugal,Medium
+7487,Fashion_2487,Fashion,Portugal,Low
+7488,Utilities_2488,Utilities,Malta,Low
+7489,Groceries_2489,Groceries,Ireland,Low
+7490,Electronics 2490,Electronics,Lithuania,Medium
+7491,OnlineGaming_2491,Online Gaming,Germany,High
+7492,RESTAURANTS_2492,Restaurants,Ireland,Low
+7493,Groceries 2493,Groceries,Ireland,Low
+7494,Groceries_2494,Groceries,Ireland,Low
+7495,INSURANCE 2495,Insurance,Ireland,Low
+7496,RESTAURANTS_2496,Restaurants,France,Low
+7497,Electronics_2497,Electronics,Belgium,Medium
+7498,Restaurants_2498,Restaurants,Portugal,Low
+7499,Restaurants_2499,Restaurants,Malta,Low
